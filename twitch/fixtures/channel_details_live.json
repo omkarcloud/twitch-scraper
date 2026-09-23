@@ -1,0 +1,229 @@
+{
+ "user": {
+  "id": "77964394",
+  "login": "ramzes",
+  "displayName": "ramzes",
+  "description": "PROF dota 2 player , 5 times major winner and streamer .  Business inquires - №6083865702 . Tradeoffer : https://steamcommunity.com/tradeoffer/new/?partner=132851371&token=sSaZmS7n   . ",
+  "createdAt": "2014-12-25T23:54:15.357715Z",
+  "updatedAt": "2026-09-22T14:44:54.778451Z",
+  "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/09f74aa6-9df9-4d37-a686-7ee5ed29bca8-profile_image-600x600.png",
+  "bannerImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd4b8b49-3e49-4760-942f-4b2d322d36ad-profile_banner-480.png",
+  "offlineImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d3f3fd1-06d3-4f40-be92-16f37c3f39b8-channel_offline_image-1920x1080.png",
+  "primaryColorHex": "233485",
+  "chatColor": "#0000FF",
+  "language": "RU",
+  "roles": {
+   "isPartner": true,
+   "isAffiliate": false,
+   "isStaff": null
+  },
+  "followers": {
+   "totalCount": 671225
+  },
+  "broadcastSettings": {
+   "title": "1w Team [1:0] Pipsqueak+4 | PGL Wallachia Season 9: Group Stage | BO3 | /w @afoninje @vtunedota !tg !win !playerok !втб !up",
+   "language": "RU",
+   "isMature": false,
+   "game": {
+    "id": "29595",
+    "name": "Dota 2",
+    "displayName": "Dota 2",
+    "slug": "dota-2",
+    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/29595-285x380.jpg"
+   }
+  },
+  "lastBroadcast": {
+   "id": "318686994789",
+   "title": "1w Team [1:0] Pipsqueak+4 | PGL Wallachia Season 9: Group Stage | BO3 | /w @afoninje @vtunedota !tg !win !playerok !втб !up",
+   "startedAt": "2026-09-23T07:06:12.280087Z",
+   "game": {
+    "id": "29595",
+    "name": "Dota 2",
+    "displayName": "Dota 2",
+    "slug": "dota-2",
+    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/29595-285x380.jpg"
+   }
+  },
+  "primaryTeam": null,
+  "stream": {
+   "id": "318686994789",
+   "title": "1w Team [1:0] Pipsqueak+4 | PGL Wallachia Season 9: Group Stage | BO3 | /w @afoninje @vtunedota !tg !win !playerok !втб !up",
+   "viewersCount": 23280,
+   "createdAt": "2026-09-23T07:06:06Z",
+   "type": "live",
+   "language": "RU",
+   "isMature": false,
+   "averageFPS": 60,
+   "bitrate": 9119,
+   "codec": "hev1.1.6.L150.90.0.0.0.0.0",
+   "height": 1440,
+   "width": 2560,
+   "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-640x360.jpg",
+   "game": {
+    "id": "29595",
+    "name": "Dota 2",
+    "displayName": "Dota 2",
+    "slug": "dota-2",
+    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/29595-285x380.jpg"
+   },
+   "freeformTags": [
+    {
+     "name": "Русский"
+    }
+   ],
+   "contentClassificationLabels": [],
+   "broadcaster": {
+    "id": "77964394",
+    "login": "ramzes",
+    "displayName": "ramzes",
+    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/09f74aa6-9df9-4d37-a686-7ee5ed29bca8-profile_image-150x150.png",
+    "roles": {
+     "isPartner": true,
+     "isAffiliate": false
+    }
+   }
+  },
+  "channel": {
+   "id": "77964394",
+   "founderBadgeAvailability": 0,
+   "socialMedias": [
+    {
+     "id": "c80d71ec-ed8f-4534-b5c2-80fd5ed5ac17",
+     "name": "t",
+     "title": "Tg",
+     "url": "https://t.me/Ramzesasd"
+    },
+    {
+     "id": "c5b2ca7b-1071-45bd-b340-bdc1d95c0100",
+     "name": "youtube",
+     "title": "YouTube",
+     "url": "https://www.youtube.com/@Ramzes666YouTube"
+    },
+    {
+     "id": "72a00f77-b64f-4d67-9f78-92b08cc789c9",
+     "name": "vk",
+     "title": "VK",
+     "url": "https://vk.com/ramzes_offpage"
+    },
+    {
+     "id": "02d8e6f0-f9a0-46b8-8e28-015d2bd5f548",
+     "name": "instagram",
+     "title": "Instagram",
+     "url": "https://www.instagram.com/ramzes/"
+    },
+    {
+     "id": "e7dcab87-e40f-4e0b-bc75-abe16d07745e",
+     "name": "donationalerts",
+     "title": "Donation",
+     "url": "https://www.donationalerts.com/r/ramzesdoto"
+    }
+   ]
+  },
+  "videos": {
+   "totalCount": 28
+  },
+  "chatSettings": {
+   "isEmoteOnlyModeEnabled": false,
+   "isFastSubsModeEnabled": true,
+   "isSubscribersOnlyModeEnabled": false,
+   "isUniqueChatModeEnabled": true,
+   "slowModeDurationSeconds": null,
+   "followersOnlyDurationMinutes": 10080,
+   "requireVerifiedAccount": false,
+   "chatDelayMs": 0,
+   "rules": [
+    "- делай)"
+   ]
+  },
+  "panels": [
+   {
+    "id": "154113257",
+    "type": "DEFAULT",
+    "title": null,
+    "description": null,
+    "linkURL": "https://10k.win/b/ramzes",
+    "imageURL": "https://panels.twitch.tv/panel-77964394-image-c3ff6f7e-76f0-410b-a66b-2c1346f8a8f9"
+   },
+   {
+    "id": "149626632",
+    "type": "DEFAULT",
+    "title": null,
+    "description": null,
+    "linkURL": "https://plrk.co/p/ramzes0308",
+    "imageURL": "https://panels.twitch.tv/panel-77964394-image-29cca1ee-b11c-4257-95a2-9b07c5f51e8a"
+   },
+   {
+    "id": "154216507",
+    "type": "DEFAULT",
+    "title": null,
+    "description": null,
+    "linkURL": "https://upg.gg/ramzes ",
+    "imageURL": "https://panels.twitch.tv/panel-77964394-image-bb7d645f-763b-457f-92bb-b5072212023f"
+   },
+   {
+    "id": "150698118",
+    "type": "DEFAULT",
+    "title": null,
+    "description": null,
+    "linkURL": "https://nextgen.winline.ru/",
+    "imageURL": "https://panels.twitch.tv/panel-77964394-image-9e54739d-901b-4d55-b74d-2b85d5ff2501"
+   },
+   {
+    "id": "154101178",
+    "type": "DEFAULT",
+    "title": null,
+    "description": null,
+    "linkURL": "https://clck.ru/3VCjMj",
+    "imageURL": "https://panels.twitch.tv/panel-77964394-image-f0ad624a-e74f-44d7-99af-ffb889ed5630"
+   },
+   {
+    "id": "151916813",
+    "type": "DEFAULT",
+    "title": null,
+    "description": null,
+    "linkURL": "https://yandex.ru/maps/org/rave_by_buster/144354989465?si=k0g3r3dcdw5gu06kpbm76jv1cw",
+    "imageURL": "https://panels.twitch.tv/panel-77964394-image-01ae4d6b-ae68-49f2-9183-27aabf6180d1"
+   },
+   {
+    "id": "14022355",
+    "type": "DEFAULT",
+    "title": null,
+    "description": null,
+    "linkURL": "https://www.instagram.com/ramzes",
+    "imageURL": "https://panels.twitch.tv/panel-77964394-image-6466ea32-efef-4564-a444-c6de541d9f78"
+   },
+   {
+    "id": "13290928",
+    "type": "DEFAULT",
+    "title": null,
+    "description": "\n\n",
+    "linkURL": "http://www.donationalerts.ru/r/ramzesdoto",
+    "imageURL": "https://panels.twitch.tv/panel-77964394-image-a79ec3ec-5400-46ae-9535-b7a269dfb68c"
+   },
+   {
+    "id": "148698137",
+    "type": "DEFAULT",
+    "title": null,
+    "description": "[Проверка регистрации канала в РКН](https://www.gosuslugi.ru/snet/68cab7dabfb0755ce18de61b)",
+    "linkURL": null,
+    "imageURL": null
+   },
+   {
+    "id": "143061579",
+    "type": "DEFAULT",
+    "title": null,
+    "description": null,
+    "linkURL": "https://www.youtube.com/@Ramzes666YouTube",
+    "imageURL": "https://panels.twitch.tv/panel-77964394-image-a83b4ea3-9ebb-4ddd-9d49-5702f102224e"
+   },
+   {
+    "id": "116323712",
+    "type": "DEFAULT",
+    "title": null,
+    "description": null,
+    "linkURL": "https://t.me/Ramzesasd",
+    "imageURL": "https://panels.twitch.tv/panel-77964394-image-bb1e2681-539d-42cb-83cc-20ba2908a9fd"
+   }
+  ]
+ }
+}

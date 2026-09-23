@@ -1,0 +1,160 @@
+{
+ "searchFor": {
+  "channels": {
+   "totalMatches": 11502,
+   "cursor": "MTA=",
+   "edges": [
+    {
+     "item": {
+      "id": "1311905533",
+      "login": "minecraftaitv",
+      "displayName": "MinecraftAITV",
+      "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/9997b0ba-ad4d-4023-a37b-3ca591e27961-profile_image-150x150.png",
+      "roles": {
+       "isPartner": false,
+       "isAffiliate": true
+      },
+      "description": "Welcome to MinecraftAI TV | 24/7 Minecraft Action powered by Artificial Intelligence (AI) | Follow us for more! | #Minecraft #AI",
+      "followers": {
+       "totalCount": 522
+      },
+      "stream": {
+       "id": "318742097510",
+       "title": "AI plays Minecraft and needs you! | Body: Mindcraft Andy | Brain: Claude Haiku 4.5 | Tasks: Write \"cheer10 ANDY TASK\" | #Minecraft #AI #ASMR",
+       "viewersCount": 1,
+       "createdAt": "2026-09-22T22:00:30Z",
+       "language": "EN",
+       "game": {
+        "id": "27471",
+        "name": "Minecraft",
+        "displayName": "Minecraft",
+        "slug": "minecraft",
+        "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-285x380.jpg"
+       }
+      }
+     }
+    },
+    {
+     "item": {
+      "id": "1226374915",
+      "login": "minecraftexpress",
+      "displayName": "MinecraftExpress",
+      "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/af8f9c43-13d3-428e-8dbf-bd04e8fb19cc-profile_image-150x150.png",
+      "roles": {
+       "isPartner": false,
+       "isAffiliate": false
+      },
+      "description": null,
+      "followers": {
+       "totalCount": 991
+      },
+      "stream": {
+       "id": "318743858278",
+       "title": "MineCrafter on Tour",
+       "viewersCount": 1,
+       "createdAt": "2026-09-23T06:14:21Z",
+       "language": "DE",
+       "game": {
+        "id": "27471",
+        "name": "Minecraft",
+        "displayName": "Minecraft",
+        "slug": "minecraft",
+        "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-285x380.jpg"
+       }
+      }
+     }
+    },
+    {
+     "item": {
+      "id": "201052290",
+      "login": "jagtheguardian",
+      "displayName": "JAGtheGuardian",
+      "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/bdb5bfd5-778f-4654-ad00-7407f4c79ea1-profile_image-150x150.png",
+      "roles": {
+       "isPartner": false,
+       "isAffiliate": true
+      },
+      "description": "I give life changing advice. Do you want your life to be changed for the better? Watch my streams and that will happen.",
+      "followers": {
+       "totalCount": 262
+      },
+      "stream": {
+       "id": "320351867998",
+       "title": "Hive Minecraft bedWARS",
+       "viewersCount": 8,
+       "createdAt": "2026-09-23T05:47:45Z",
+       "language": "EN",
+       "game": {
+        "id": "27471",
+        "name": "Minecraft",
+        "displayName": "Minecraft",
+        "slug": "minecraft",
+        "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-285x380.jpg"
+       }
+      }
+     }
+    },
+    {
+     "item": {
+      "id": "461426143",
+      "login": "albert124",
+      "displayName": "albert124",
+      "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/5d2a7a6d-501e-494c-b459-18e94e95ac92-profile_image-150x150.png",
+      "roles": {
+       "isPartner": false,
+       "isAffiliate": true
+      },
+      "description": "Playing Games and Chatting 💩 😂 drop in and say Hi! ",
+      "followers": {
+       "totalCount": 596
+      },
+      "stream": {
+       "id": "316022398929",
+       "title": "MINECRAFT REALM - PLAYING WITH FOLLOWERS!!!",
+       "viewersCount": 5,
+       "createdAt": "2026-09-23T08:42:54Z",
+       "language": "EN",
+       "game": {
+        "id": "27471",
+        "name": "Minecraft",
+        "displayName": "Minecraft",
+        "slug": "minecraft",
+        "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-285x380.jpg"
+       }
+      }
+     }
+    },
+    {
+     "item": {
+      "id": "162495437",
+      "login": "thriftedcatnip",
+      "displayName": "thriftedcatnip",
+      "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/08f89f69-4c04-4ce3-99c0-e3302387d4b2-profile_image-150x150.png",
+      "roles": {
+       "isPartner": false,
+       "isAffiliate": true
+      },
+      "description": "\"Sul Sul\" My name is Elizabeth, and I Iove video games and making people smile 🦋",
+      "followers": {
+       "totalCount": 1164
+      },
+      "stream": {
+       "id": "317833186531",
+       "title": "🍂 let's make it Autumn in Minecraft 🎃|modded !discord !clip !lurk",
+       "viewersCount": 11,
+       "createdAt": "2026-09-23T08:36:27Z",
+       "language": "EN",
+       "game": {
+        "id": "27471",
+        "name": "Minecraft",
+        "displayName": "Minecraft",
+        "slug": "minecraft",
+        "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-285x380.jpg"
+       }
+      }
+     }
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "user": {
+  "id": "77964394",
+  "login": "ramzes",
+  "displayName": "ramzes",
+  "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/09f74aa6-9df9-4d37-a686-7ee5ed29bca8-profile_image-150x150.png",
+  "roles": {
+   "isPartner": true,
+   "isAffiliate": false
+  },
+  "followers": {
+   "totalCount": 671225
+  },
+  "lastBroadcast": {
+   "id": "318686994789",
+   "title": "1w Team [1:0] Pipsqueak+4 | PGL Wallachia Season 9: Group Stage | BO3 | /w @afoninje @vtunedota !tg !win !playerok !втб !up",
+   "startedAt": "2026-09-23T07:06:12.280087Z",
+   "game": {
+    "id": "29595",
+    "name": "Dota 2",
+    "displayName": "Dota 2",
+    "slug": "dota-2",
+    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/29595-285x380.jpg"
+   }
+  },
+  "stream": {
+   "id": "318686994789",
+   "title": "1w Team [1:0] Pipsqueak+4 | PGL Wallachia Season 9: Group Stage | BO3 | /w @afoninje @vtunedota !tg !win !playerok !втб !up",
+   "viewersCount": 23280,
+   "createdAt": "2026-09-23T07:06:06Z",
+   "type": "live",
+   "language": "RU",
+   "isMature": false,
+   "averageFPS": 60,
+   "bitrate": 9119,
+   "codec": "hev1.1.6.L150.90.0.0.0.0.0",
+   "height": 1440,
+   "width": 2560,
+   "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ramzes-640x360.jpg",
+   "game": {
+    "id": "29595",
+    "name": "Dota 2",
+    "displayName": "Dota 2",
+    "slug": "dota-2",
+    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/29595-285x380.jpg"
+   },
+   "freeformTags": [
+    {
+     "name": "Русский"
+    }
+   ],
+   "contentClassificationLabels": [],
+   "broadcaster": {
+    "id": "77964394",
+    "login": "ramzes",
+    "displayName": "ramzes",
+    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/09f74aa6-9df9-4d37-a686-7ee5ed29bca8-profile_image-150x150.png",
+    "roles": {
+     "isPartner": true,
+     "isAffiliate": false
+    }
+   }
+  }
+ }
+}

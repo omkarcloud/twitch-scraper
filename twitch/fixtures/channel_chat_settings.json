@@ -1,0 +1,32 @@
+{
+ "user": {
+  "id": "71092938",
+  "login": "xqc",
+  "displayName": "xQc",
+  "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+  "roles": {
+   "isPartner": true,
+   "isAffiliate": false
+  },
+  "chatColor": "#0000FF",
+  "chatSettings": {
+   "isEmoteOnlyModeEnabled": false,
+   "isFastSubsModeEnabled": false,
+   "isSubscribersOnlyModeEnabled": false,
+   "isUniqueChatModeEnabled": false,
+   "slowModeDurationSeconds": null,
+   "followersOnlyDurationMinutes": 1440,
+   "requireVerifiedAccount": false,
+   "chatDelayMs": 0,
+   "rules": [
+    "English please",
+    "Fresh memes"
+   ]
+  },
+  "channel": {
+   "pinnedChatMessages": {
+    "edges": []
+   }
+  }
+ }
+}

@@ -1,0 +1,195 @@
+{
+ "user": {
+  "id": "71092938",
+  "login": "xqc",
+  "displayName": "xQc",
+  "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+  "roles": {
+   "isPartner": true,
+   "isAffiliate": false
+  },
+  "videos": {
+   "totalCount": 49,
+   "edges": [
+    {
+     "cursor": "2876809827|921556|2026-09-17T19:45:47Z|37717",
+     "node": {
+      "id": "2881171681",
+      "title": "⚠️LIVE⚠️DRAMA⚠️NEWS⚠️GTA⚠️DANGER⚠️BIG DAY TODAY⚠️IMPORTANT⚠️ALERT⚠️BIG BIG DAY⚠️DONT MISS IT⚠️THINGSHAPPENING TODAY⚠️BROADCAST ANNOUNCEMENT",
+      "description": null,
+      "viewCount": 32737,
+      "lengthSeconds": 50593,
+      "publishedAt": "2026-09-22T17:22:09Z",
+      "createdAt": "2026-09-22T17:22:09Z",
+      "language": "en",
+      "broadcastType": "ARCHIVE",
+      "status": "RECORDED",
+      "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/6d0a3c98a933338f3d6a_xqc_321487634009_1790097724//thumb/thumb0-640x360.jpg",
+      "animatedPreviewURL": "https://d1m7jfoe9zdc1j.cloudfront.net/6d0a3c98a933338f3d6a_xqc_321487634009_1790097724/storyboards/2881171681-strip-0.jpg",
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "owner": {
+       "id": "71092938",
+       "login": "xqc",
+       "displayName": "xQc",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "contentTags": []
+     }
+    },
+    {
+     "cursor": "2876809827|921556|2026-09-17T19:45:47Z|37717",
+     "node": {
+      "id": "2880410519",
+      "title": "🦑LIVE🦑DRAMA🦑NEWS🦑VIDEOS🦑GTA RP🦑NOPIXEL COOL🦑V🦑LOCK IT IN🦑BIG DAY🦑MEGA DAY🦑DO NOT MISS TYPE DAY🦑VERY NICE🦑",
+      "description": null,
+      "viewCount": 953247,
+      "lengthSeconds": 37813,
+      "publishedAt": "2026-09-21T19:06:27Z",
+      "createdAt": "2026-09-21T19:06:27Z",
+      "language": "en",
+      "broadcastType": "ARCHIVE",
+      "status": "RECORDED",
+      "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2vi6trrdongqn/ab6a57c30de606948bf3_xqc_320465494240_1790017582//thumb/thumb0-640x360.jpg",
+      "animatedPreviewURL": "https://d2vi6trrdongqn.cloudfront.net/ab6a57c30de606948bf3_xqc_320465494240_1790017582/storyboards/2880410519-strip-0.jpg",
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "owner": {
+       "id": "71092938",
+       "login": "xqc",
+       "displayName": "xQc",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "contentTags": []
+     }
+    },
+    {
+     "cursor": "2876809827|921556|2026-09-17T19:45:47Z|37717",
+     "node": {
+      "id": "2879641133",
+      "title": "🐅LIVE🐅DRAMA🐅NEWS🐅STUFF🐅GTA 5🐅SECRET UNVEILED🐅TODAY🐅RIDDLE WILL BE FINISHED🐅FOLLOW THE E🐅 EEEEEE🐅 EEEEEEE🐅EEEE🐅",
+      "description": null,
+      "viewCount": 1005218,
+      "lengthSeconds": 41480,
+      "publishedAt": "2026-09-20T20:18:10Z",
+      "createdAt": "2026-09-20T20:18:10Z",
+      "language": "en",
+      "broadcastType": "ARCHIVE",
+      "status": "RECORDED",
+      "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2vi6trrdongqn/c4aa4c2e0b054a72698e_xqc_320453142112_1789935485//thumb/thumb0-640x360.jpg",
+      "animatedPreviewURL": "https://d2vi6trrdongqn.cloudfront.net/c4aa4c2e0b054a72698e_xqc_320453142112_1789935485/storyboards/2879641133-strip-0.jpg",
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "owner": {
+       "id": "71092938",
+       "login": "xqc",
+       "displayName": "xQc",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "contentTags": []
+     }
+    },
+    {
+     "cursor": "2876809827|921556|2026-09-17T19:45:47Z|37717",
+     "node": {
+      "id": "2877743217",
+      "title": "🦸LIVE🦸DRAMA🦸NEWS🦸GTA 5🦸NO PIXEL RP🦸BIG BIG BIGDAY🦸SUPER JP🦸RETURNS🦸CHILLS🦸QUICK INTRO🦸INTO JP POG🦸",
+      "description": null,
+      "viewCount": 1173225,
+      "lengthSeconds": 45762,
+      "publishedAt": "2026-09-18T20:42:27Z",
+      "createdAt": "2026-09-18T20:42:27Z",
+      "language": "en",
+      "broadcastType": "ARCHIVE",
+      "status": "RECORDED",
+      "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2vi6trrdongqn/965a9af4cc6be70be4e3_xqc_320281226974_1789764142//thumb/thumb0-640x360.jpg",
+      "animatedPreviewURL": "https://d2vi6trrdongqn.cloudfront.net/965a9af4cc6be70be4e3_xqc_320281226974_1789764142/storyboards/2877743217-strip-0.jpg",
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "owner": {
+       "id": "71092938",
+       "login": "xqc",
+       "displayName": "xQc",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "contentTags": []
+     }
+    },
+    {
+     "cursor": "2876809827|921556|2026-09-17T19:45:47Z|37717",
+     "node": {
+      "id": "2876809827",
+      "title": "🤚LIVE🤚HERE🤚SHORT INTRO🤚GTA 5 AT 5 PM ETS🤚LOCK IN🤚PULL UP QUICK🤚WE GOT STUFF TO DO🤚WICKED🤚MAYBE PP TODAY🤚UNCLEAR🤚",
+      "description": null,
+      "viewCount": 921556,
+      "lengthSeconds": 37717,
+      "publishedAt": "2026-09-17T19:45:47Z",
+      "createdAt": "2026-09-17T19:45:47Z",
+      "language": "en",
+      "broadcastType": "ARCHIVE",
+      "status": "RECORDED",
+      "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/08fc6eb17eea19d3a8c7_xqc_321414520025_1789674342//thumb/thumb0-640x360.jpg",
+      "animatedPreviewURL": "https://d1m7jfoe9zdc1j.cloudfront.net/08fc6eb17eea19d3a8c7_xqc_321414520025_1789674342/storyboards/2876809827-strip-0.jpg",
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "owner": {
+       "id": "71092938",
+       "login": "xqc",
+       "displayName": "xQc",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "contentTags": []
+     }
+    }
+   ],
+   "pageInfo": {
+    "hasNextPage": true
+   }
+  }
+ }
+}

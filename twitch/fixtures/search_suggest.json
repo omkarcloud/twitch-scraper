@@ -1,0 +1,65 @@
+{
+ "searchSuggestions": {
+  "edges": [
+   {
+    "node": {
+     "id": "941155ea-18f9-4fff-a8a6-a01bc2e78ce7",
+     "text": "Minecraft",
+     "content": {
+      "__typename": "SearchSuggestionCategory",
+      "id": "27471",
+      "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-{width}x{height}.jpg",
+      "game": {
+       "name": "Minecraft",
+       "displayName": "Minecraft",
+       "slug": "minecraft",
+       "viewersCount": 8503
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "id": "87c0063c-51ec-4561-89e8-e309f04b1667",
+     "text": "Minecraft",
+     "content": null
+    }
+   },
+   {
+    "node": {
+     "id": "772cb597-487a-4708-bdcf-4fdd4bfa2e26",
+     "text": "minecraft français",
+     "content": null
+    }
+   },
+   {
+    "node": {
+     "id": "6e782e76-1c64-4d22-bc21-a35ad50b4b04",
+     "text": "minecraft realm",
+     "content": null
+    }
+   },
+   {
+    "node": {
+     "id": "b8183f45-5621-4f13-8e30-13f5510e8c53",
+     "text": "minecraft donutsmp",
+     "content": null
+    }
+   },
+   {
+    "node": {
+     "id": "25390e75-a164-4c5b-abe7-13f199bc2ce2",
+     "text": "minecraft with viewers",
+     "content": null
+    }
+   },
+   {
+    "node": {
+     "id": "89e5aae9-3b8e-463c-a6bd-da38790068ea",
+     "text": "minecraft risiko",
+     "content": null
+    }
+   }
+  ]
+ }
+}

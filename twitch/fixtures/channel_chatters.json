@@ -1,0 +1,411 @@
+{
+ "user": {
+  "id": "77964394",
+  "login": "ramzes",
+  "displayName": "ramzes",
+  "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/09f74aa6-9df9-4d37-a686-7ee5ed29bca8-profile_image-150x150.png",
+  "roles": {
+   "isPartner": true,
+   "isAffiliate": false
+  },
+  "stream": {
+   "id": "318686994789",
+   "viewersCount": 25631
+  },
+  "channel": {
+   "chatters": {
+    "count": 19708,
+    "broadcasters": [
+     {
+      "login": "ramzes"
+     }
+    ],
+    "moderators": [
+     {
+      "login": "8followsonik"
+     },
+     {
+      "login": "afoninje"
+     },
+     {
+      "login": "arleekeen"
+     },
+     {
+      "login": "beschestniu"
+     },
+     {
+      "login": "fossabot"
+     },
+     {
+      "login": "icebergdoto"
+     },
+     {
+      "login": "n1gel1337"
+     },
+     {
+      "login": "vovapain"
+     },
+     {
+      "login": "vtunedota"
+     }
+    ],
+    "vips": [
+     {
+      "login": "anishka_36"
+     },
+     {
+      "login": "antaresxdxdxd"
+     },
+     {
+      "login": "axmoisback"
+     },
+     {
+      "login": "drain_manera"
+     },
+     {
+      "login": "hokagefreshprince"
+     },
+     {
+      "login": "jodimit"
+     },
+     {
+      "login": "khamul1113"
+     },
+     {
+      "login": "kread_gold"
+     },
+     {
+      "login": "kurojke"
+     },
+     {
+      "login": "latersix"
+     },
+     {
+      "login": "onejey1"
+     },
+     {
+      "login": "rxvehere"
+     },
+     {
+      "login": "sh4dowehhh"
+     },
+     {
+      "login": "shizstain2003"
+     },
+     {
+      "login": "supernatural2001"
+     },
+     {
+      "login": "tolika"
+     },
+     {
+      "login": "zeryng245"
+     }
+    ],
+    "staff": [],
+    "viewers": [
+     {
+      "login": "1o1ke"
+     },
+     {
+      "login": "2sidi"
+     },
+     {
+      "login": "a1z8r"
+     },
+     {
+      "login": "adikdaking"
+     },
+     {
+      "login": "aisen_nyyr"
+     },
+     {
+      "login": "akcent666"
+     },
+     {
+      "login": "analizmen"
+     },
+     {
+      "login": "arts070"
+     },
+     {
+      "login": "asgolt_1111"
+     },
+     {
+      "login": "b4rdin111"
+     },
+     {
+      "login": "babakapa01"
+     },
+     {
+      "login": "babazina1006"
+     },
+     {
+      "login": "baranov_544"
+     },
+     {
+      "login": "blvdedvncer"
+     },
+     {
+      "login": "bobah_858"
+     },
+     {
+      "login": "by_pau4ok"
+     },
+     {
+      "login": "capitankiska"
+     },
+     {
+      "login": "cexy_pupook"
+     },
+     {
+      "login": "chopdobro"
+     },
+     {
+      "login": "cossthat322"
+     },
+     {
+      "login": "daniil_raznosit"
+     },
+     {
+      "login": "danmaruss"
+     },
+     {
+      "login": "danya200420"
+     },
+     {
+      "login": "dembro769"
+     },
+     {
+      "login": "diego_walker1"
+     },
+     {
+      "login": "dimbury"
+     },
+     {
+      "login": "djonmorgan"
+     },
+     {
+      "login": "eenoshima"
+     },
+     {
+      "login": "erikyaano"
+     },
+     {
+      "login": "fairplayyyyy"
+     },
+     {
+      "login": "fate77_"
+     },
+     {
+      "login": "freetype2323"
+     },
+     {
+      "login": "ghetto_seven"
+     },
+     {
+      "login": "glebasphonk"
+     },
+     {
+      "login": "gmvalera"
+     },
+     {
+      "login": "gorox145"
+     },
+     {
+      "login": "groovyvladick"
+     },
+     {
+      "login": "haruexd"
+     },
+     {
+      "login": "heilm1ch"
+     },
+     {
+      "login": "heresylover"
+     },
+     {
+      "login": "hevs31"
+     },
+     {
+      "login": "hotomoto95"
+     },
+     {
+      "login": "hpcrt"
+     },
+     {
+      "login": "idextent"
+     },
+     {
+      "login": "imatomicx"
+     },
+     {
+      "login": "iwoxygen"
+     },
+     {
+      "login": "jiexa_kapy3o"
+     },
+     {
+      "login": "jopekc"
+     },
+     {
+      "login": "kaponister"
+     },
+     {
+      "login": "karakat1zza2"
+     },
+     {
+      "login": "kirill2087"
+     },
+     {
+      "login": "kvolss"
+     },
+     {
+      "login": "lionofthematch"
+     },
+     {
+      "login": "lnjkee"
+     },
+     {
+      "login": "loki6003"
+     },
+     {
+      "login": "lolik22333333"
+     },
+     {
+      "login": "lovelyyy10"
+     },
+     {
+      "login": "lupak228"
+     },
+     {
+      "login": "m3thod_mans"
+     },
+     {
+      "login": "making_art"
+     },
+     {
+      "login": "marmandonez"
+     },
+     {
+      "login": "maxthreesix"
+     },
+     {
+      "login": "maynter_"
+     },
+     {
+      "login": "meowlotus7"
+     },
+     {
+      "login": "mijer"
+     },
+     {
+      "login": "mr_1whitee"
+     },
+     {
+      "login": "mrbrazin"
+     },
+     {
+      "login": "mrsinedd"
+     },
+     {
+      "login": "mukhamed20014"
+     },
+     {
+      "login": "nasamokate11"
+     },
+     {
+      "login": "neooen66"
+     },
+     {
+      "login": "nokcih"
+     },
+     {
+      "login": "ponkitonki1"
+     },
+     {
+      "login": "qu1ter9"
+     },
+     {
+      "login": "royalpotatocasino"
+     },
+     {
+      "login": "sav44ik"
+     },
+     {
+      "login": "secretthebest"
+     },
+     {
+      "login": "sega_tn"
+     },
+     {
+      "login": "slownrain"
+     },
+     {
+      "login": "smorc904"
+     },
+     {
+      "login": "sonilox"
+     },
+     {
+      "login": "splin_gg"
+     },
+     {
+      "login": "ssaburoo"
+     },
+     {
+      "login": "stardreamer113"
+     },
+     {
+      "login": "stasrudik"
+     },
+     {
+      "login": "stormve1l"
+     },
+     {
+      "login": "takkopi"
+     },
+     {
+      "login": "tanoik"
+     },
+     {
+      "login": "tetraciklin111"
+     },
+     {
+      "login": "trapledy1"
+     },
+     {
+      "login": "triviat666"
+     },
+     {
+      "login": "trxmrzwmshoey"
+     },
+     {
+      "login": "tv_oykent"
+     },
+     {
+      "login": "unexplor3dd"
+     },
+     {
+      "login": "vitaspida"
+     },
+     {
+      "login": "vivakojd"
+     },
+     {
+      "login": "volmmolv"
+     },
+     {
+      "login": "wachabi1"
+     },
+     {
+      "login": "yanedece"
+     },
+     {
+      "login": "youngshus3"
+     }
+    ]
+   }
+  }
+ }
+}

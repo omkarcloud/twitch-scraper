@@ -1,0 +1,78 @@
+{
+ "clip": {
+  "id": "4208125826",
+  "slug": "AmericanGentleHedgehogImGlitch-F4NBRoJ29jNLNtQa",
+  "title": "xQC on shooting cops early in the server",
+  "url": "https://www.twitch.tv/xqc/clip/AmericanGentleHedgehogImGlitch-F4NBRoJ29jNLNtQa",
+  "viewCount": 15356,
+  "durationSeconds": 33,
+  "createdAt": "2026-09-17T04:53:18Z",
+  "language": "EN",
+  "isFeatured": false,
+  "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e937ee83-0ff0-4dbc-839b-a93d280150c4/landscape/thumb/thumb-0000000000-1920x1080.jpg",
+  "videoOffsetSeconds": 38187,
+  "broadcaster": {
+   "id": "71092938",
+   "login": "xqc",
+   "displayName": "xQc",
+   "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+   "roles": {
+    "isPartner": true,
+    "isAffiliate": false
+   },
+   "description": "THE BEST AT ABSOLUTELY EVERYTHING. THE JUICER. LEADER OF THE JUICERS.",
+   "followers": {
+    "totalCount": 12567454
+   }
+  },
+  "curator": {
+   "id": "126554702",
+   "login": "elias940",
+   "displayName": "elias940",
+   "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/4989095f-6bf8-4fea-b7d3-0751baae32c8-profile_image-150x150.png",
+   "roles": {
+    "isPartner": false,
+    "isAffiliate": false
+   }
+  },
+  "game": {
+   "id": "32982",
+   "name": "Grand Theft Auto V",
+   "displayName": "Grand Theft Auto V",
+   "slug": "grand-theft-auto-v",
+   "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/32982_IGDB-285x380.jpg"
+  },
+  "video": {
+   "id": "2875873430",
+   "title": "🧠LIVE🧠HERE🧠LOCK IN🧠GTA RP🧠PROGRESSION🧠FINALLY🧠NOPIXEL🧠ABSOLUTE PANDAMONIUM🧠MINI INTRO🧠PULL UP🧠AND WITNESS🧠GREATNESS🧠",
+   "lengthSeconds": 41964
+  },
+  "embedURL": "https://clips.twitch.tv/embed?clip=AmericanGentleHedgehogImGlitch-F4NBRoJ29jNLNtQa",
+  "videoQualities": [
+   {
+    "quality": "1080",
+    "frameRate": 60,
+    "sourceURL": "https://d1ndex63qxojbr.cloudfront.net/nauth/e937ee83-0ff0-4dbc-839b-a93d280150c4/landscape/h264/1080/index.mp4"
+   },
+   {
+    "quality": "720",
+    "frameRate": 60.028099060058594,
+    "sourceURL": "https://d1ndex63qxojbr.cloudfront.net/nauth/e937ee83-0ff0-4dbc-839b-a93d280150c4/landscape/h264/720/index.mp4"
+   },
+   {
+    "quality": "480",
+    "frameRate": 30.014049530029297,
+    "sourceURL": "https://d1ndex63qxojbr.cloudfront.net/nauth/e937ee83-0ff0-4dbc-839b-a93d280150c4/landscape/h264/480/index.mp4"
+   },
+   {
+    "quality": "360",
+    "frameRate": 30.014049530029297,
+    "sourceURL": "https://d1ndex63qxojbr.cloudfront.net/nauth/e937ee83-0ff0-4dbc-839b-a93d280150c4/landscape/h264/360/index.mp4"
+   }
+  ],
+  "playbackAccessToken": {
+   "signature": "5eea46ff513f72adfe452631255b20cbdf9be023",
+   "value": "{\"authorization\":{\"forbidden\":false,\"reason\":\"\"},\"clip_uri\":\"https://d1ndex63qxojbr.cloudfront.net/nauth/e937ee83-0ff0-4dbc-839b-a93d280150c4/landscape/h264/720/index.mp4\",\"clip_slug\":\"AmericanGentleHedgehogImGlitch-F4NBRoJ29jNLNtQa\",\"device_id\":null,\"expires\":1790226643,\"user_id\":\"\",\"version\":3}"
+  }
+ }
+}

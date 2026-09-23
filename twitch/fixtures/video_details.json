@@ -1,0 +1,85 @@
+{
+ "video": {
+  "id": "2880410519",
+  "title": "🦑LIVE🦑DRAMA🦑NEWS🦑VIDEOS🦑GTA RP🦑NOPIXEL COOL🦑V🦑LOCK IT IN🦑BIG DAY🦑MEGA DAY🦑DO NOT MISS TYPE DAY🦑VERY NICE🦑",
+  "description": null,
+  "viewCount": 953219,
+  "lengthSeconds": 37813,
+  "publishedAt": "2026-09-21T19:06:27Z",
+  "createdAt": "2026-09-21T19:06:27Z",
+  "language": "en",
+  "broadcastType": "ARCHIVE",
+  "status": "RECORDED",
+  "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2vi6trrdongqn/ab6a57c30de606948bf3_xqc_320465494240_1790017582//thumb/thumb0-640x360.jpg",
+  "animatedPreviewURL": "https://d2vi6trrdongqn.cloudfront.net/ab6a57c30de606948bf3_xqc_320465494240_1790017582/storyboards/2880410519-strip-0.jpg",
+  "game": {
+   "id": "509658",
+   "name": "Just Chatting",
+   "displayName": "Just Chatting",
+   "slug": "just-chatting",
+   "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+  },
+  "owner": {
+   "id": "71092938",
+   "login": "xqc",
+   "displayName": "xQc",
+   "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+   "roles": {
+    "isPartner": true,
+    "isAffiliate": false
+   },
+   "description": "THE BEST AT ABSOLUTELY EVERYTHING. THE JUICER. LEADER OF THE JUICERS.",
+   "followers": {
+    "totalCount": 12567454
+   }
+  },
+  "contentTags": [],
+  "updatedAt": "2026-09-22T05:36:50Z",
+  "recordedAt": "2026-09-21T19:06:26Z",
+  "offsetSeconds": 0,
+  "seekPreviewsURL": "https://d2vi6trrdongqn.cloudfront.net/ab6a57c30de606948bf3_xqc_320465494240_1790017582/storyboards/2880410519-info.json",
+  "resourceRestriction": null,
+  "moments": {
+   "edges": [
+    {
+     "node": {
+      "id": "78710f7229d8b9aaa0d8d1daca5dfdec",
+      "description": "Just Chatting",
+      "type": "GAME_CHANGE",
+      "positionMilliseconds": 0,
+      "durationMilliseconds": 2435000,
+      "thumbnailURL": "",
+      "details": {
+       "game": {
+        "id": "509658",
+        "name": "Just Chatting",
+        "displayName": "Just Chatting",
+        "slug": "just-chatting",
+        "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "22dba0ae83ad05d7479f494da2460c88",
+      "description": "Grand Theft Auto V",
+      "type": "GAME_CHANGE",
+      "positionMilliseconds": 2435000,
+      "durationMilliseconds": 35378000,
+      "thumbnailURL": "",
+      "details": {
+       "game": {
+        "id": "32982",
+        "name": "Grand Theft Auto V",
+        "displayName": "Grand Theft Auto V",
+        "slug": "grand-theft-auto-v",
+        "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/32982_IGDB-285x380.jpg"
+       }
+      }
+     }
+    }
+   ]
+  }
+ }
+}

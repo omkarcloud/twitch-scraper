@@ -1,0 +1,147 @@
+{
+ "searchFor": {
+  "channels": {
+   "totalMatches": 11504,
+   "cursor": "NQ==",
+   "edges": [
+    {
+     "item": {
+      "id": "112568845",
+      "login": "minecraft",
+      "displayName": "Minecraft",
+      "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/c6284d38-5148-424b-a6cc-be06d2fc4aec-profile_image-150x150.png",
+      "roles": {
+       "isPartner": true,
+       "isAffiliate": false
+      },
+      "description": "Survive the night, or build a work of art. Watch and join us in Minecraft!",
+      "followers": {
+       "totalCount": 828538
+      },
+      "stream": null
+     }
+    },
+    {
+     "item": {
+      "id": "169703688",
+      "login": "mrhugo",
+      "displayName": "MrHugo",
+      "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/2b8df248-836b-44a7-a23c-cc6ca5defb59-profile_image-150x150.png",
+      "roles": {
+       "isPartner": true,
+       "isAffiliate": false
+      },
+      "description": "Jugador experto de Minecraft, +8.000h de mundo, pasarme Minecraft a medio corazón y soledad!",
+      "followers": {
+       "totalCount": 724758
+      },
+      "stream": {
+       "id": "317832846947",
+       "title": "🔴DROPS🔴 | ⛏️GET YOUR CAPE⛏️ |⛏️OBTÉN TU CAPA⛏️ | SUB FOR BADGE | SUSCRIBETE PARA EMPLEMA | MC.ZERES.FUN | BD.ZERES.FUN",
+       "viewersCount": 212,
+       "createdAt": "2026-09-23T06:36:55Z",
+       "language": "ES",
+       "game": {
+        "id": "27471",
+        "name": "Minecraft",
+        "displayName": "Minecraft",
+        "slug": "minecraft",
+        "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-285x380.jpg"
+       }
+      }
+     }
+    },
+    {
+     "item": {
+      "id": "1097162283",
+      "login": "yetr",
+      "displayName": "Yetr",
+      "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/8f071b10-635e-4078-bb35-4df0057dfe18-profile_image-150x150.png",
+      "roles": {
+       "isPartner": true,
+       "isAffiliate": false
+      },
+      "description": "Business email: itsyetr@gmail.com",
+      "followers": {
+       "totalCount": 66263
+      },
+      "stream": {
+       "id": "321642667355",
+       "title": "[24/7] ✶ Corrupted Creeper Cape HERE ✶ Minecraft Watch Party",
+       "viewersCount": 604,
+       "createdAt": "2026-09-21T12:37:37Z",
+       "language": "EN",
+       "game": {
+        "id": "27471",
+        "name": "Minecraft",
+        "displayName": "Minecraft",
+        "slug": "minecraft",
+        "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-285x380.jpg"
+       }
+      }
+     }
+    },
+    {
+     "item": {
+      "id": "877302469",
+      "login": "oldestminecraft",
+      "displayName": "OldestMinecraft",
+      "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/87d682c5-8a00-46ed-a829-c16f5a1638c2-profile_image-150x150.png",
+      "roles": {
+       "isPartner": false,
+       "isAffiliate": false
+      },
+      "description": "Here on the Oldest Minecraft we cover the oldest non-reset Minecraft SMP ever. This server is the oldest and most coolest server. Also one you can join.",
+      "followers": {
+       "totalCount": 127584
+      },
+      "stream": {
+       "id": "320434137308",
+       "title": "Playing the Oldest Joinable Minecraft SMP (12 yrs) | Bedrock & Java | 1.21 Minecraft Survival SMP",
+       "viewersCount": 1,
+       "createdAt": "2026-09-22T14:02:06Z",
+       "language": "EN",
+       "game": {
+        "id": "27471",
+        "name": "Minecraft",
+        "displayName": "Minecraft",
+        "slug": "minecraft",
+        "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-285x380.jpg"
+       }
+      }
+     }
+    },
+    {
+     "item": {
+      "id": "20711821",
+      "login": "pewdiepie",
+      "displayName": "PewDiePie",
+      "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/fb3a0d41-4cd4-4d2c-9c1c-8d49c195b4a2-profile_image-150x150.png",
+      "roles": {
+       "isPartner": true,
+       "isAffiliate": false
+      },
+      "description": "By popular request ∞ Official ƿ૯ωძɿ૯ƿɿ૯ Infinity Stream ∞ You can now watch my vids on a forever loop with Twitch Chat! This is an official rerun channel. This channel plays PewDiePie YouTube videos 24/7/365/∞/FOREVER! Enjoy!",
+      "followers": {
+       "totalCount": 1749723
+      },
+      "stream": {
+       "id": "319313519575",
+       "title": "∞ Binge @PewDiePie vids 24/7 with chat ∞ !video !schedule",
+       "viewersCount": 119,
+       "createdAt": "2026-09-22T06:43:27Z",
+       "language": "EN",
+       "game": {
+        "id": "27471",
+        "name": "Minecraft",
+        "displayName": "Minecraft",
+        "slug": "minecraft",
+        "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-285x380.jpg"
+       }
+      }
+     }
+    }
+   ]
+  }
+ }
+}

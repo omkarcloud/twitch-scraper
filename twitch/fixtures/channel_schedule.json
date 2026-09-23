@@ -1,0 +1,145 @@
+{
+ "user": {
+  "id": "26610234",
+  "login": "cohhcarnage",
+  "displayName": "CohhCarnage",
+  "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/148c3b8a-a78b-4139-a429-7d3d90ce8a27-profile_image-150x150.png",
+  "roles": {
+   "isPartner": true,
+   "isAffiliate": false
+  },
+  "channel": {
+   "schedule": {
+    "id": "schedule-26610234",
+    "interruption": null,
+    "segments": [
+     {
+      "id": "eyJzZWdtZW50SUQiOiI3Y2FmMmRkZC04MjVmLTRhOWQtYWJkNi01YWJiZDc4YzAxOTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "title": "Daily Stream! 8am - 4pm Eastern most days (with a lunch break)! Come say HELLO!",
+      "startAt": "2026-09-21T12:00:00Z",
+      "endAt": "2026-09-21T19:00:00Z",
+      "isCancelled": false,
+      "hasReminder": false,
+      "categories": []
+     },
+     {
+      "id": "eyJzZWdtZW50SUQiOiJhZTY4ODY0NS03M2E5LTRlZjItOTRlMy1mZDZmMDcyNTdmZWUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "title": "Reruns in our 24 Hour Community, Twitch.tv/Cohh!",
+      "startAt": "2026-09-21T19:00:00Z",
+      "endAt": "2026-09-22T12:00:00Z",
+      "isCancelled": false,
+      "hasReminder": false,
+      "categories": []
+     },
+     {
+      "id": "eyJzZWdtZW50SUQiOiIzNDZiMzIwZC0yZWVhLTRiNjMtYTdkNy1lZTY4ZWJiMTc3MDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "title": "Normal Stream!",
+      "startAt": "2026-09-22T12:00:00Z",
+      "endAt": "2026-09-22T19:00:00Z",
+      "isCancelled": false,
+      "hasReminder": false,
+      "categories": []
+     },
+     {
+      "id": "eyJzZWdtZW50SUQiOiJkZWNmNzhiMS05MDQ5LTQxZmQtYmE0ZC0wZTM5MmI0YmViOTAiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "title": "Reruns in our 24 Hour Community, Twitch.tv/Cohh!",
+      "startAt": "2026-09-22T19:00:00Z",
+      "endAt": "2026-09-23T12:00:00Z",
+      "isCancelled": false,
+      "hasReminder": false,
+      "categories": []
+     },
+     {
+      "id": "eyJzZWdtZW50SUQiOiI3MWMzMzlhYi00YmYzLTQyMjMtYTM0Mi1hNzZjYTMwZDA2MWMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "title": "Normal Stream!",
+      "startAt": "2026-09-23T12:00:00Z",
+      "endAt": "2026-09-23T19:00:00Z",
+      "isCancelled": false,
+      "hasReminder": false,
+      "categories": []
+     },
+     {
+      "id": "eyJzZWdtZW50SUQiOiJiYTQ0OWE1OC00Yjk3LTQ1ZTctYWE5ZC1jYjZkZDFlYjhmOWUiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "title": "Reruns in our 24 Hour Community, Twitch.tv/Cohh!",
+      "startAt": "2026-09-23T19:00:00Z",
+      "endAt": "2026-09-24T12:00:00Z",
+      "isCancelled": false,
+      "hasReminder": false,
+      "categories": []
+     },
+     {
+      "id": "eyJzZWdtZW50SUQiOiIwNDQ0ZmUxNy1mMTg3LTQxZWUtOTdlNC05ZDBmZTg1NDZiYjciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "title": "Normal Stream!",
+      "startAt": "2026-09-24T12:00:00Z",
+      "endAt": "2026-09-24T19:00:00Z",
+      "isCancelled": false,
+      "hasReminder": false,
+      "categories": []
+     },
+     {
+      "id": "eyJzZWdtZW50SUQiOiIwMTc0OTAwOC0xYmNjLTQ5NTItYWRhYS04MGMzNmZmNWE2MTkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "title": "Reruns in our 24 Hour Community, Twitch.tv/Cohh!",
+      "startAt": "2026-09-24T19:00:00Z",
+      "endAt": "2026-09-25T12:00:00Z",
+      "isCancelled": false,
+      "hasReminder": false,
+      "categories": []
+     },
+     {
+      "id": "eyJzZWdtZW50SUQiOiIzZDYyMTlmYy1lNGQ0LTQ2ZjQtOWEyZi04YTA5YjcwNzY4MTgiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "title": "Normal Stream!",
+      "startAt": "2026-09-25T12:00:00Z",
+      "endAt": "2026-09-25T19:00:00Z",
+      "isCancelled": false,
+      "hasReminder": false,
+      "categories": []
+     },
+     {
+      "id": "eyJzZWdtZW50SUQiOiJjNDU2MjdiNi1iMGI4LTQzMjMtOThjYS0xMTRmYjI4YWVlMmMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "title": "Saturday Stream!",
+      "startAt": "2026-09-26T12:00:00Z",
+      "endAt": "2026-09-26T16:00:00Z",
+      "isCancelled": false,
+      "hasReminder": false,
+      "categories": []
+     },
+     {
+      "id": "eyJzZWdtZW50SUQiOiI3M2M3NWRjMi1lOTRmLTQzNjgtYWY1NS0wMGRlY2EwY2NkZDciLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "title": "Reruns in our 24 Hour Community, Twitch.tv/Cohh!",
+      "startAt": "2026-09-26T19:00:00Z",
+      "endAt": "2026-09-26T23:00:00Z",
+      "isCancelled": false,
+      "hasReminder": false,
+      "categories": []
+     },
+     {
+      "id": "eyJzZWdtZW50SUQiOiI2MWQxOTY4My1kMDU0LTQ2MTMtODJjOC0wM2MxMGNkNGZhNDkiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "title": "Sunday Pre DF Stream!",
+      "startAt": "2026-09-27T14:00:00Z",
+      "endAt": "2026-09-27T17:00:00Z",
+      "isCancelled": false,
+      "hasReminder": false,
+      "categories": []
+     },
+     {
+      "id": "eyJzZWdtZW50SUQiOiI3ODI2ZmYwYi00Y2NiLTQxMzAtYThjMS1mN2MwNjkzNzFmNDMiLCJpc29ZZWFyIjoyMDI2LCJpc29XZWVrIjozOX0=",
+      "title": "Dropped Frames",
+      "startAt": "2026-09-27T17:00:00Z",
+      "endAt": "2026-09-27T20:00:00Z",
+      "isCancelled": false,
+      "hasReminder": false,
+      "categories": [
+       {
+        "id": "417752",
+        "name": "Talk Shows & Podcasts",
+        "displayName": "Talk Shows & Podcasts",
+        "slug": "talk-shows-and-podcasts",
+        "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/417752-285x380.jpg"
+       }
+      ]
+     }
+    ]
+   }
+  }
+ }
+}

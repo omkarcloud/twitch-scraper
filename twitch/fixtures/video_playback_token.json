@@ -1,0 +1,21 @@
+{
+ "video": {
+  "id": "2880410519",
+  "title": "🦑LIVE🦑DRAMA🦑NEWS🦑VIDEOS🦑GTA RP🦑NOPIXEL COOL🦑V🦑LOCK IT IN🦑BIG DAY🦑MEGA DAY🦑DO NOT MISS TYPE DAY🦑VERY NICE🦑",
+  "lengthSeconds": 37813,
+  "owner": {
+   "id": "71092938",
+   "login": "xqc",
+   "displayName": "xQc",
+   "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+   "roles": {
+    "isPartner": true,
+    "isAffiliate": false
+   }
+  }
+ },
+ "videoPlaybackAccessToken": {
+  "signature": "b68925ca32605fd613deddbe7245e90c22f63c63",
+  "value": "{\"authorization\":{\"forbidden\":false,\"reason\":\"\"},\"chansub\":{\"restricted_bitrates\":[]},\"device_id\":null,\"expires\":1790227285,\"https_required\":true,\"privileged\":false,\"user_id\":null,\"version\":3,\"vod_id\":2880410519,\"maximum_resolution\":\"FULL_HD\",\"maximum_video_bitrate_kbps\":12500,\"maximum_resolution_reasons\":{\"QUAD_HD\":[\"AUTHZ_GEO\",\"AUTHZ_NOT_LOGGED_IN\"],\"ULTRA_HD\":[\"AUTHZ_GEO\",\"AUTHZ_NOT_LOGGED_IN\"]},\"maximum_video_bitrate_kbps_reasons\":[\"AUTHZ_DISALLOWED_BITRATE\"]}"
+ }
+}

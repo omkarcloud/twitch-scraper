@@ -1,0 +1,191 @@
+{
+ "game": {
+  "id": "509658",
+  "name": "Just Chatting",
+  "displayName": "Just Chatting",
+  "slug": "just-chatting",
+  "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg",
+  "videos": {
+   "edges": [
+    {
+     "cursor": "2879743753|1304592|2026-09-20T22:41:15Z|157847",
+     "node": {
+      "id": "2876637386",
+      "title": "[DROPS ON] UNBANNED WOW FOREVER BETA TODAY BIG DAY HUGE DRAMA  TODAY NEW GAMES BIG NEWS  REACTS | @asmongold247!Aniimo #ad",
+      "description": null,
+      "viewCount": 1731698,
+      "lengthSeconds": 37022,
+      "publishedAt": "2026-09-17T16:13:10Z",
+      "createdAt": "2026-09-17T16:13:10Z",
+      "language": "en",
+      "broadcastType": "ARCHIVE",
+      "status": "RECORDED",
+      "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/5035db262857ec18b765_zackrawrr_319257894231_1789661585//thumb/thumb0-640x360.jpg",
+      "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/5035db262857ec18b765_zackrawrr_319257894231_1789661585/storyboards/2876637386-strip-0.jpg",
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "owner": {
+       "id": "552120296",
+       "login": "zackrawrr",
+       "displayName": "zackrawrr",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/a9ce83ba-c0bd-49cc-83bd-9d17647a211a-profile_image-150x150.png",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "contentTags": []
+     }
+    },
+    {
+     "cursor": "2879743753|1304592|2026-09-20T22:41:15Z|157847",
+     "node": {
+      "id": "2879726437",
+      "title": "HITATHON 2: ATL - DAY 7 🍑",
+      "description": null,
+      "viewCount": 1614105,
+      "lengthSeconds": 90154,
+      "publishedAt": "2026-09-20T22:15:26Z",
+      "createdAt": "2026-09-20T22:15:26Z",
+      "language": "en",
+      "broadcastType": "ARCHIVE",
+      "status": "RECORDED",
+      "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/9fdf8b546fe7a49f0f34_ddg_319297024471_1789942521//thumb/thumb0-640x360.jpg",
+      "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/9fdf8b546fe7a49f0f34_ddg_319297024471_1789942521/storyboards/2879726437-strip-0.jpg",
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "owner": {
+       "id": "124835948",
+       "login": "ddg",
+       "displayName": "DDG",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/01d55c0b-9cfc-4a3d-a622-1bc2b3300f5e-profile_image-150x150.png",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "contentTags": []
+     }
+    },
+    {
+     "cursor": "2879743753|1304592|2026-09-20T22:41:15Z|157847",
+     "node": {
+      "id": "2879581115",
+      "title": "🟨 LOS X RON 🟨 JYNXZI TOURNAMENT 🟨 GAMES 🟨 WE ARE COOKED 🟨 IM A GAMER 🟨 WE HERE 🟨 JOIN 🟨  [twitter/insta stableronaldo] !po !com !sub",
+      "description": null,
+      "viewCount": 1606342,
+      "lengthSeconds": 26084,
+      "publishedAt": "2026-09-20T19:06:45Z",
+      "createdAt": "2026-09-20T19:06:45Z",
+      "language": "en",
+      "broadcastType": "ARCHIVE",
+      "status": "RECORDED",
+      "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/e41129d612582c31a912_stableronaldo_319294914775_1789931200//thumb/thumb0-640x360.jpg",
+      "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/e41129d612582c31a912_stableronaldo_319294914775_1789931200/storyboards/2879581115-strip-0.jpg",
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "owner": {
+       "id": "246450563",
+       "login": "stableronaldo",
+       "displayName": "stableronaldo",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/020d2ed3-c2f2-4d33-805f-92cf966a9c43-profile_image-150x150.png",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "contentTags": []
+     }
+    },
+    {
+     "cursor": "2879743753|1304592|2026-09-20T22:41:15Z|157847",
+     "node": {
+      "id": "2879202321",
+      "title": "30 JOURS POUR FAIRE DAKAR-PARIS SANS AVION - JOUR 1 (@byilhann et @flamby) !prime !sub",
+      "description": null,
+      "viewCount": 1450510,
+      "lengthSeconds": 52175,
+      "publishedAt": "2026-09-20T10:31:55Z",
+      "createdAt": "2026-09-20T10:31:55Z",
+      "language": "fr",
+      "broadcastType": "ARCHIVE",
+      "status": "RECORDED",
+      "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/dfcc358deab8b0e96f64_nico_la_317491514615_1789900310//thumb/thumb0-640x360.jpg",
+      "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/dfcc358deab8b0e96f64_nico_la_317491514615_1789900310/storyboards/2879202321-strip-0.jpg",
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "owner": {
+       "id": "887001013",
+       "login": "nico_la",
+       "displayName": "Nico_la",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/d72e4845-0556-4433-b3be-efcb1a34bb3a-profile_image-150x150.png",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "contentTags": []
+     }
+    },
+    {
+     "cursor": "2879743753|1304592|2026-09-20T22:41:15Z|157847",
+     "node": {
+      "id": "2879743753",
+      "title": "!MOUSEATHON DAY 20! 50% TO IMMUNE DEFICIENCY FOUNDATION! | !youtooz !omocat !fox !cheeky !ht !starforge !tts !merch !razer",
+      "description": null,
+      "viewCount": 1304592,
+      "lengthSeconds": 157847,
+      "publishedAt": "2026-09-20T22:41:15Z",
+      "createdAt": "2026-09-20T22:41:15Z",
+      "language": "en",
+      "broadcastType": "ARCHIVE",
+      "status": "RECORDED",
+      "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/c8bffe02c20cc6ab2e90_ironmouse_318174182360_1789944070//thumb/thumb0-640x360.jpg",
+      "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/c8bffe02c20cc6ab2e90_ironmouse_318174182360_1789944070/storyboards/2879743753-strip-0.jpg",
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "owner": {
+       "id": "175831187",
+       "login": "ironmouse",
+       "displayName": "ironmouse",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2aca19b-b318-4398-99a5-fb6a597536fd-profile_image-150x150.png",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "contentTags": []
+     }
+    }
+   ],
+   "pageInfo": {
+    "hasNextPage": true
+   }
+  }
+ }
+}

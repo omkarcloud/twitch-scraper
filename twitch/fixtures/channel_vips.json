@@ -1,0 +1,684 @@
+{
+ "user": {
+  "id": "71092938",
+  "login": "xqc",
+  "displayName": "xQc",
+  "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+  "roles": {
+   "isPartner": true,
+   "isAffiliate": false
+  },
+  "vips": {
+   "edges": [
+    {
+     "grantedAt": "2018-11-14T22:54:33.712283178Z",
+     "node": {
+      "id": "92672952",
+      "login": "growl",
+      "displayName": "Growl"
+     }
+    },
+    {
+     "grantedAt": "2018-12-14T23:12:45.988862381Z",
+     "node": {
+      "id": "402107507",
+      "login": "hermannoden995",
+      "displayName": "hermannoden995"
+     }
+    },
+    {
+     "grantedAt": "2018-12-16T11:49:16.769455789Z",
+     "node": {
+      "id": "181494606",
+      "login": "potateeeeees",
+      "displayName": "potateeeeees"
+     }
+    },
+    {
+     "grantedAt": "2019-07-27T18:09:34.756141877Z",
+     "node": {
+      "id": "72732563",
+      "login": "12btw_exe",
+      "displayName": "12btw_exe"
+     }
+    },
+    {
+     "grantedAt": "2019-08-13T11:21:52.649071443Z",
+     "node": {
+      "id": "62539821",
+      "login": "kamzara",
+      "displayName": "Kamzara"
+     }
+    },
+    {
+     "grantedAt": "2019-10-15T01:18:36.640972199Z",
+     "node": {
+      "id": "95304188",
+      "login": "zoil",
+      "displayName": "Zoil"
+     }
+    },
+    {
+     "grantedAt": "2019-10-16T01:12:56.585772408Z",
+     "node": {
+      "id": "155685153",
+      "login": "hydrosophy",
+      "displayName": "Hydrosophy"
+     }
+    },
+    {
+     "grantedAt": "2019-10-16T01:12:59.678791705Z",
+     "node": {
+      "id": "7421980",
+      "login": "ser_laser",
+      "displayName": "ser_laser"
+     }
+    },
+    {
+     "grantedAt": "2019-10-16T01:13:14.682922397Z",
+     "node": {
+      "id": "175420846",
+      "login": "skully_ow",
+      "displayName": "Skully_OW"
+     }
+    },
+    {
+     "grantedAt": "2019-10-16T01:13:23.040487264Z",
+     "node": {
+      "id": "72388133",
+      "login": "roaringiron",
+      "displayName": "RoaringIron"
+     }
+    },
+    {
+     "grantedAt": "2019-10-16T01:13:36.841685281Z",
+     "node": {
+      "id": "174620241",
+      "login": "missdeee",
+      "displayName": "MissDeee"
+     }
+    },
+    {
+     "grantedAt": "2019-10-16T01:23:07.983008339Z",
+     "node": {
+      "id": "140138719",
+      "login": "dolev",
+      "displayName": "Dolev"
+     }
+    },
+    {
+     "grantedAt": "2019-10-16T02:41:34.417195345Z",
+     "node": {
+      "id": "61430883",
+      "login": "o_mjolnir_w",
+      "displayName": "o_mjolnir_w"
+     }
+    },
+    {
+     "grantedAt": "2019-10-16T02:43:26.218058456Z",
+     "node": {
+      "id": "175738436",
+      "login": "wapze",
+      "displayName": "wapze"
+     }
+    },
+    {
+     "grantedAt": "2019-11-20T19:33:14.78416671Z",
+     "node": {
+      "id": "404243258",
+      "login": "dixonhyper",
+      "displayName": "DIXONHYPER"
+     }
+    },
+    {
+     "grantedAt": "2019-11-24T20:24:16.332072728Z",
+     "node": {
+      "id": "93798128",
+      "login": "potroastfan",
+      "displayName": "potroastfan"
+     }
+    },
+    {
+     "grantedAt": "2020-01-19T00:59:07.029618782Z",
+     "node": {
+      "id": "231212216",
+      "login": "fercopp1",
+      "displayName": "FerCopp1"
+     }
+    },
+    {
+     "grantedAt": "2020-03-10T16:59:07.968921872Z",
+     "node": {
+      "id": "60445466",
+      "login": "349625701",
+      "displayName": "349625701"
+     }
+    },
+    {
+     "grantedAt": "2020-03-22T01:56:17.422486355Z",
+     "node": {
+      "id": "26014116",
+      "login": "glerzhus",
+      "displayName": "Glerzhus"
+     }
+    },
+    {
+     "grantedAt": "2020-03-22T01:56:52.120482694Z",
+     "node": {
+      "id": "15375700",
+      "login": "luckybox",
+      "displayName": "LuckyBox"
+     }
+    },
+    {
+     "grantedAt": "2020-03-24T06:24:25.254041734Z",
+     "node": {
+      "id": "136780239",
+      "login": "epicxd_",
+      "displayName": "EpicXd_"
+     }
+    },
+    {
+     "grantedAt": "2020-03-28T03:38:04.396880328Z",
+     "node": {
+      "id": "214346272",
+      "login": "wt_bm",
+      "displayName": "wt_bm"
+     }
+    },
+    {
+     "grantedAt": "2020-03-30T17:14:30.88116593Z",
+     "node": {
+      "id": "425363834",
+      "login": "thepositivebot",
+      "displayName": "ThePositiveBot"
+     }
+    },
+    {
+     "grantedAt": "2020-07-21T01:38:33.87500006Z",
+     "node": {
+      "id": "55337205",
+      "login": "trestos3",
+      "displayName": "Trestos3"
+     }
+    },
+    {
+     "grantedAt": "2020-08-26T22:43:22.93904261Z",
+     "node": {
+      "id": "92437932",
+      "login": "cian",
+      "displayName": "Cian"
+     }
+    },
+    {
+     "grantedAt": "2020-09-19T09:55:31.342161728Z",
+     "node": {
+      "id": "50228159",
+      "login": "chefbronel",
+      "displayName": "ChefBronel"
+     }
+    },
+    {
+     "grantedAt": "2020-09-19T09:58:10.649486996Z",
+     "node": {
+      "id": "121425763",
+      "login": "gtix",
+      "displayName": "GTIX"
+     }
+    },
+    {
+     "grantedAt": "2020-09-19T10:00:39.216594436Z",
+     "node": null
+    },
+    {
+     "grantedAt": "2020-12-06T23:05:10.968660429Z",
+     "node": {
+      "id": "56637641",
+      "login": "handsomewalnut",
+      "displayName": "Handsomewalnut"
+     }
+    },
+    {
+     "grantedAt": "2021-04-25T02:54:50.950210885Z",
+     "node": {
+      "id": "454915904",
+      "login": "skittlekfc",
+      "displayName": "skittlekfc"
+     }
+    },
+    {
+     "grantedAt": "2021-04-25T03:04:56.887394445Z",
+     "node": {
+      "id": "271904258",
+      "login": "bloodleaker",
+      "displayName": "bloodleaker"
+     }
+    },
+    {
+     "grantedAt": "2021-04-25T03:07:25.190554055Z",
+     "node": {
+      "id": "98522932",
+      "login": "curveow",
+      "displayName": "CurveOW"
+     }
+    },
+    {
+     "grantedAt": "2021-04-25T03:07:42.6091319Z",
+     "node": {
+      "id": "146332745",
+      "login": "its_physikz",
+      "displayName": "its_Physikz"
+     }
+    },
+    {
+     "grantedAt": "2021-04-25T03:08:30.320227405Z",
+     "node": {
+      "id": "160262580",
+      "login": "happytoaster_",
+      "displayName": "HappyToaster_"
+     }
+    },
+    {
+     "grantedAt": "2021-04-25T03:10:23.237770369Z",
+     "node": {
+      "id": "65602310",
+      "login": "contravz",
+      "displayName": "ContraVz"
+     }
+    },
+    {
+     "grantedAt": "2021-04-25T03:10:43.317470869Z",
+     "node": {
+      "id": "214046397",
+      "login": "k2ll",
+      "displayName": "K2ll"
+     }
+    },
+    {
+     "grantedAt": "2021-04-25T03:12:35.625491602Z",
+     "node": {
+      "id": "217180955",
+      "login": "infamous_ak_",
+      "displayName": "Infamous_AK_"
+     }
+    },
+    {
+     "grantedAt": "2021-04-25T03:13:47.582057457Z",
+     "node": {
+      "id": "89117879",
+      "login": "tjt811",
+      "displayName": "TJT811"
+     }
+    },
+    {
+     "grantedAt": "2021-04-25T03:17:25.774841756Z",
+     "node": {
+      "id": "96699158",
+      "login": "potluck",
+      "displayName": "potluck"
+     }
+    },
+    {
+     "grantedAt": "2021-04-25T03:18:51.23129892Z",
+     "node": {
+      "id": "132063978",
+      "login": "beanmariocow_",
+      "displayName": "beanmariocow_"
+     }
+    },
+    {
+     "grantedAt": "2021-04-25T03:22:58.441005444Z",
+     "node": {
+      "id": "190949112",
+      "login": "juniorrr",
+      "displayName": "juniorrr"
+     }
+    },
+    {
+     "grantedAt": "2021-04-26T03:45:10.592312678Z",
+     "node": {
+      "id": "131965607",
+      "login": "luc1an_",
+      "displayName": "Luc1an_"
+     }
+    },
+    {
+     "grantedAt": "2021-04-26T03:45:18.147836828Z",
+     "node": {
+      "id": "36830992",
+      "login": "hallk14",
+      "displayName": "hallk14"
+     }
+    },
+    {
+     "grantedAt": "2021-11-07T01:00:44.401444147Z",
+     "node": {
+      "id": "251169096",
+      "login": "peqpy",
+      "displayName": "peqpy"
+     }
+    },
+    {
+     "grantedAt": "2021-11-07T07:59:28.732539391Z",
+     "node": {
+      "id": "169295150",
+      "login": "wirezs",
+      "displayName": "Wirezs"
+     }
+    },
+    {
+     "grantedAt": "2021-11-07T07:59:37.282770492Z",
+     "node": {
+      "id": "27311066",
+      "login": "ravenbtwold",
+      "displayName": "RavenbtwOLD"
+     }
+    },
+    {
+     "grantedAt": "2021-11-07T08:00:16.190451213Z",
+     "node": {
+      "id": "88401573",
+      "login": "forgettrance",
+      "displayName": "forgettrance"
+     }
+    },
+    {
+     "grantedAt": "2021-11-15T00:53:29.78864067Z",
+     "node": {
+      "id": "437242181",
+      "login": "kodocon",
+      "displayName": "kodocon"
+     }
+    },
+    {
+     "grantedAt": "2021-12-09T23:56:29.007959071Z",
+     "node": {
+      "id": "134522528",
+      "login": "feelssunnyman",
+      "displayName": "FeelsSunnyMan"
+     }
+    },
+    {
+     "grantedAt": "2022-05-05T21:50:54.055534559Z",
+     "node": {
+      "id": "178377435",
+      "login": "leeqox",
+      "displayName": "LeeqoX"
+     }
+    },
+    {
+     "grantedAt": "2022-07-31T03:13:19.902065782Z",
+     "node": {
+      "id": "168701788",
+      "login": "sydzophrenic",
+      "displayName": "Sydzophrenic"
+     }
+    },
+    {
+     "grantedAt": "2022-09-07T11:26:20.544846965Z",
+     "node": {
+      "id": "124696356",
+      "login": "esattt",
+      "displayName": "ESATTT"
+     }
+    },
+    {
+     "grantedAt": "2022-11-02T12:53:56.594181734Z",
+     "node": {
+      "id": "641972806",
+      "login": "kaicenat",
+      "displayName": "KaiCenat"
+     }
+    },
+    {
+     "grantedAt": "2022-11-15T22:07:13.234266267Z",
+     "node": {
+      "id": "84207342",
+      "login": "dirtyskillz19",
+      "displayName": "Dirtyskillz19"
+     }
+    },
+    {
+     "grantedAt": "2022-11-17T19:24:30.010417174Z",
+     "node": {
+      "id": "417711459",
+      "login": "brown_yogurt",
+      "displayName": "Brown_Yogurt"
+     }
+    },
+    {
+     "grantedAt": "2022-11-17T19:30:23.818598278Z",
+     "node": {
+      "id": "127405870",
+      "login": "jdxl",
+      "displayName": "JDXL"
+     }
+    },
+    {
+     "grantedAt": "2022-11-22T02:07:45.055545844Z",
+     "node": {
+      "id": "45255234",
+      "login": "cent",
+      "displayName": "cent"
+     }
+    },
+    {
+     "grantedAt": "2022-11-24T10:17:41.150911028Z",
+     "node": {
+      "id": "257244256",
+      "login": "ieinaad",
+      "displayName": "Ieinaad"
+     }
+    },
+    {
+     "grantedAt": "2022-11-26T10:23:43.990176246Z",
+     "node": {
+      "id": "512842902",
+      "login": "iamallexm",
+      "displayName": "iamallexm"
+     }
+    },
+    {
+     "grantedAt": "2022-11-27T04:03:41.662879131Z",
+     "node": {
+      "id": "104764625",
+      "login": "arthium",
+      "displayName": "Arthium"
+     }
+    },
+    {
+     "grantedAt": "2023-01-15T05:31:03.951781595Z",
+     "node": {
+      "id": "185626339",
+      "login": "lsoccer",
+      "displayName": "LSoccer"
+     }
+    },
+    {
+     "grantedAt": "2023-02-11T07:13:34.122269445Z",
+     "node": {
+      "id": "35987962",
+      "login": "linustech",
+      "displayName": "LinusTech"
+     }
+    },
+    {
+     "grantedAt": "2023-02-27T10:51:42.856405071Z",
+     "node": {
+      "id": "729353699",
+      "login": "ravenbtw",
+      "displayName": "Ravenbtw"
+     }
+    },
+    {
+     "grantedAt": "2023-03-20T20:55:15.800418735Z",
+     "node": {
+      "id": "48036540",
+      "login": "onlyvz",
+      "displayName": "onlyvz"
+     }
+    },
+    {
+     "grantedAt": "2023-04-28T18:12:13.53818927Z",
+     "node": {
+      "id": "214700605",
+      "login": "scorpyl2",
+      "displayName": "ScorpyL2"
+     }
+    },
+    {
+     "grantedAt": "2023-04-28T18:33:29.016511236Z",
+     "node": {
+      "id": "137521851",
+      "login": "drkness_x",
+      "displayName": "DRKNESS_x"
+     }
+    },
+    {
+     "grantedAt": "2023-04-29T06:12:18.249976491Z",
+     "node": {
+      "id": "184903421",
+      "login": "baddra_",
+      "displayName": "Baddra_"
+     }
+    },
+    {
+     "grantedAt": "2023-06-10T05:03:55.191811005Z",
+     "node": {
+      "id": "47131996",
+      "login": "deli",
+      "displayName": "Deli"
+     }
+    },
+    {
+     "grantedAt": "2023-08-24T05:19:41.550003609Z",
+     "node": {
+      "id": "505131195",
+      "login": "captkayy",
+      "displayName": "captkayy"
+     }
+    },
+    {
+     "grantedAt": "2023-10-04T04:53:58.081190766Z",
+     "node": {
+      "id": "196858",
+      "login": "omie",
+      "displayName": "omie"
+     }
+    },
+    {
+     "grantedAt": "2024-05-27T23:32:47.072949793Z",
+     "node": {
+      "id": "35694586",
+      "login": "idini",
+      "displayName": "iDini"
+     }
+    },
+    {
+     "grantedAt": "2024-05-27T23:32:56.113664672Z",
+     "node": {
+      "id": "521617927",
+      "login": "aade_",
+      "displayName": "Aade_"
+     }
+    },
+    {
+     "grantedAt": "2024-06-06T15:40:00.57415235Z",
+     "node": {
+      "id": "129894330",
+      "login": "animalontv",
+      "displayName": "AnimalOnTV"
+     }
+    },
+    {
+     "grantedAt": "2024-06-13T19:03:15.818632281Z",
+     "node": {
+      "id": "158125368",
+      "login": "mdpog",
+      "displayName": "MDPog"
+     }
+    },
+    {
+     "grantedAt": "2024-07-09T03:12:14.561823891Z",
+     "node": {
+      "id": "109813668",
+      "login": "prestonalewis",
+      "displayName": "PrestonALewis"
+     }
+    },
+    {
+     "grantedAt": "2024-11-13T01:51:00.782410587Z",
+     "node": {
+      "id": "222316577",
+      "login": "dafke_",
+      "displayName": "Dafke_"
+     }
+    },
+    {
+     "grantedAt": "2024-11-26T15:43:42.094493494Z",
+     "node": {
+      "id": "610912094",
+      "login": "dankjuicer",
+      "displayName": "DankJuicer"
+     }
+    },
+    {
+     "grantedAt": "2024-12-26T05:56:07.113801632Z",
+     "node": {
+      "id": "520655339",
+      "login": "dn9n",
+      "displayName": "dn9n"
+     }
+    },
+    {
+     "grantedAt": "2025-04-04T00:53:09.470544629Z",
+     "node": {
+      "id": "246450563",
+      "login": "stableronaldo",
+      "displayName": "stableronaldo"
+     }
+    },
+    {
+     "grantedAt": "2025-06-21T21:46:18.006220153Z",
+     "node": {
+      "id": "65834810",
+      "login": "itskingmanny",
+      "displayName": "itsKingManny"
+     }
+    },
+    {
+     "grantedAt": "2025-07-05T00:42:49.965143528Z",
+     "node": {
+      "id": "58662950",
+      "login": "findjeremiah",
+      "displayName": "findjeremiah"
+     }
+    },
+    {
+     "grantedAt": "2025-08-02T02:51:55.948375626Z",
+     "node": {
+      "id": "587739537",
+      "login": "cristianoooronaldooo",
+      "displayName": "CristianoooRonaldooo"
+     }
+    },
+    {
+     "grantedAt": "2026-02-05T02:10:47.997939551Z",
+     "node": {
+      "id": "59299632",
+      "login": "adinross",
+      "displayName": "AdinRoss"
+     }
+    },
+    {
+     "grantedAt": "2026-07-18T23:55:50.303756075Z",
+     "node": {
+      "id": "160374529",
+      "login": "victor6",
+      "displayName": "Victor6"
+     }
+    }
+   ]
+  }
+ }
+}

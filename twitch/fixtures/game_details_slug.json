@@ -1,0 +1,24 @@
+{
+ "game": {
+  "id": "509658",
+  "name": "Just Chatting",
+  "displayName": "Just Chatting",
+  "slug": "just-chatting",
+  "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg",
+  "viewersCount": 133509,
+  "followersCount": 53210678,
+  "tags": [
+   {
+    "id": "2610cff9-10ae-4cb3-8500-778e6722fbb5",
+    "localizedName": "IRL"
+   }
+  ],
+  "broadcastersCount": 2508,
+  "description": null,
+  "originalReleaseDate": null,
+  "developers": null,
+  "publishers": null,
+  "logoURL": "https://static-cdn.jtvnw.net/ttv-logoart/Just%20Chatting-{width}x{height}.jpg",
+  "coverURL": null
+ }
+}

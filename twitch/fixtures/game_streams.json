@@ -1,0 +1,324 @@
+{
+ "game": {
+  "id": "509658",
+  "name": "Just Chatting",
+  "displayName": "Just Chatting",
+  "slug": "just-chatting",
+  "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg",
+  "viewersCount": 133236,
+  "streams": {
+   "edges": [
+    {
+     "cursor": "eyJzIjo5MDU3Ljc5NzY2NjM3MjQ1MSwiZCI6ZmFsc2UsInQiOnRydWV9",
+     "node": {
+      "id": "319316599767",
+      "title": "!MOUSEATHON DAY 22! 50% TO IMMUNE DEFICIENCY FOUNDATION! | !youtooz !omocat !fox !cheeky !ht !starforge !tts !merch !razer",
+      "viewersCount": 9057,
+      "createdAt": "2026-09-22T18:34:21Z",
+      "type": "live",
+      "language": "EN",
+      "isMature": true,
+      "averageFPS": 60,
+      "bitrate": 7416,
+      "codec": "avc1.64002A",
+      "height": 1080,
+      "width": 1920,
+      "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-640x360.jpg",
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "freeformTags": [
+       {
+        "name": "English"
+       },
+       {
+        "name": "Anime"
+       },
+       {
+        "name": "Singing"
+       },
+       {
+        "name": "puertorico"
+       },
+       {
+        "name": "Vtuber"
+       },
+       {
+        "name": "Latino"
+       },
+       {
+        "name": "vtuber"
+       },
+       {
+        "name": "DropsEnabled"
+       }
+      ],
+      "contentClassificationLabels": [],
+      "broadcaster": {
+       "id": "175831187",
+       "login": "ironmouse",
+       "displayName": "ironmouse",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/c2aca19b-b318-4398-99a5-fb6a597536fd-profile_image-150x150.png",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      }
+     }
+    },
+    {
+     "cursor": "eyJzIjo1NDEzLjYyMzg3OTg5NjM5LCJkIjpmYWxzZSwidCI6dHJ1ZX0=",
+     "node": {
+      "id": "318190280408",
+      "title": "🪂ADDRESSING AI POSTERS🪂I FOUND MY NEW DREAM CAR🪂DM'ING 100 CELEBRITIES TODAY!!🪂PATREON TODAY🪂DESKTOP🪂EARLY STREAM TMM🪂 !core !patreon",
+      "viewersCount": 5413,
+      "createdAt": "2026-09-23T04:14:45Z",
+      "type": "live",
+      "language": "EN",
+      "isMature": true,
+      "averageFPS": 60,
+      "bitrate": 7884,
+      "codec": "avc1.64002A",
+      "height": 1080,
+      "width": 1920,
+      "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_silky-640x360.jpg",
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "freeformTags": [
+       {
+        "name": "English"
+       },
+       {
+        "name": "VTuber"
+       },
+       {
+        "name": "StreamerUniversity"
+       },
+       {
+        "name": "DropsEnabled"
+       },
+       {
+        "name": "core"
+       }
+      ],
+      "contentClassificationLabels": [],
+      "broadcaster": {
+       "id": "451786566",
+       "login": "silky",
+       "displayName": "Silky",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/1ac703ee-57aa-4e68-86df-838d52a5193f-profile_image-150x150.png",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      }
+     }
+    },
+    {
+     "cursor": "eyJzIjo0MzE3LjQ4ODYyNzExMzk4MSwiZCI6ZmFsc2UsInQiOnRydWV9",
+     "node": {
+      "id": "316096165353",
+      "title": "Tokyo | SAICORO LAST DAY | !esim !vpn !yt",
+      "viewersCount": 4317,
+      "createdAt": "2026-09-23T04:00:48Z",
+      "type": "live",
+      "language": "EN",
+      "isMature": false,
+      "averageFPS": 50,
+      "bitrate": 8034,
+      "codec": "avc1.64002A",
+      "height": 1080,
+      "width": 1920,
+      "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_robcdee-640x360.jpg",
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "freeformTags": [
+       {
+        "name": "Tokyo"
+       },
+       {
+        "name": "Japan"
+       },
+       {
+        "name": "Outdoors"
+       },
+       {
+        "name": "Cycling"
+       },
+       {
+        "name": "Exploration"
+       },
+       {
+        "name": "Travel"
+       },
+       {
+        "name": "Anime"
+       },
+       {
+        "name": "Speedeating"
+       },
+       {
+        "name": "English"
+       },
+       {
+        "name": "Gout"
+       }
+      ],
+      "contentClassificationLabels": [],
+      "broadcaster": {
+       "id": "169185650",
+       "login": "robcdee",
+       "displayName": "robcdee",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/01d06208-891f-4fca-a21a-16e9009a9a5e-profile_image-150x150.png",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      }
+     }
+    },
+    {
+     "cursor": "eyJzIjozMjc2LjEzMjEzMTM2MzI5NiwiZCI6ZmFsc2UsInQiOnRydWV9",
+     "node": {
+      "id": "321479788505",
+      "title": "Sumo Wrestling REPLAY w/ Commentary | Day 11 of the September Grand Sumo tournament in Tokyo, Japan! | Live again at 9:15am Japan time!",
+      "viewersCount": 3276,
+      "createdAt": "2026-09-22T00:34:47Z",
+      "type": "live",
+      "language": "EN",
+      "isMature": true,
+      "averageFPS": 30,
+      "bitrate": 4485,
+      "codec": "avc1.64001F",
+      "height": 720,
+      "width": 1280,
+      "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_midnightsumo-640x360.jpg",
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "freeformTags": [
+       {
+        "name": "English"
+       },
+       {
+        "name": "Japan"
+       },
+       {
+        "name": "Sumo"
+       },
+       {
+        "name": "Wrestling"
+       },
+       {
+        "name": "ADHD"
+       },
+       {
+        "name": "Pokemon"
+       },
+       {
+        "name": "Japanese"
+       },
+       {
+        "name": "Food"
+       },
+       {
+        "name": "NotACat"
+       },
+       {
+        "name": "AIOptedOut"
+       }
+      ],
+      "contentClassificationLabels": [],
+      "broadcaster": {
+       "id": "51115394",
+       "login": "midnightsumo",
+       "displayName": "MidnightSumo",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/66806ef2-24ca-4e48-9eff-58130356fe97-profile_image-150x150.png",
+       "roles": {
+        "isPartner": false,
+        "isAffiliate": true
+       }
+      }
+     }
+    },
+    {
+     "cursor": "eyJzIjoyNDY5LjEwOTU3MTkyODg4MjQsImQiOmZhbHNlLCJ0Ijp0cnVlfQ==",
+     "node": {
+      "id": "318686217445",
+      "title": "[ENG/KR/JP] TAIWAN DAY 1 ❤️ !pc !surfshark !socials [TTS $1 / 100bits]",
+      "viewersCount": 1768,
+      "createdAt": "2026-09-23T03:50:03Z",
+      "type": "live",
+      "language": "EN",
+      "isMature": false,
+      "averageFPS": 60,
+      "bitrate": 7233,
+      "codec": "avc1.64002A",
+      "height": 1080,
+      "width": 1920,
+      "previewImageURL": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hello_kiko-640x360.jpg",
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "freeformTags": [
+       {
+        "name": "English"
+       },
+       {
+        "name": "Asian"
+       },
+       {
+        "name": "korean"
+       },
+       {
+        "name": "Japanese"
+       },
+       {
+        "name": "Australia"
+       },
+       {
+        "name": "DropsEnabled"
+       }
+      ],
+      "contentClassificationLabels": [],
+      "broadcaster": {
+       "id": "438944099",
+       "login": "hello_kiko",
+       "displayName": "hello_kiko",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ba32dec-763f-4843-9f59-a30475344cd8-profile_image-150x150.png",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      }
+     }
+    }
+   ],
+   "pageInfo": {
+    "hasNextPage": true
+   }
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "game": {
+  "id": "33214",
+  "name": "Fortnite",
+  "displayName": "Fortnite",
+  "slug": "fortnite",
+  "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/33214-285x380.jpg",
+  "viewersCount": 26707,
+  "followersCount": 108126273,
+  "tags": [
+   {
+    "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+    "localizedName": "Shooter"
+   },
+   {
+    "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
+    "localizedName": "Simulation"
+   },
+   {
+    "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+    "localizedName": "Action"
+   },
+   {
+    "id": "ae7d0652-8b2e-476b-8b51-a076550b234f",
+    "localizedName": "Survival"
+   },
+   {
+    "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
+    "localizedName": "Open World"
+   },
+   {
+    "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+    "localizedName": "FPS"
+   },
+   {
+    "id": "e12bcf2d-b0cd-450f-a59c-e079c7955c10",
+    "localizedName": "Luna"
+   }
+  ],
+  "broadcastersCount": 1814,
+  "description": "Fortnite is a free-to-play online game where you and your friends can create, play and battle. Be the last player standing in Battle Royale and Zero Build, experience a concert or live event, or discover over a million creator-made games, including racing, parkour, zombie survival and more.",
+  "originalReleaseDate": "2020-06-29T00:00:00Z",
+  "developers": [
+   "Epic Games"
+  ],
+  "publishers": [
+   "Epic Games"
+  ],
+  "logoURL": "https://static-cdn.jtvnw.net/ttv-logoart/Fortnite-{width}x{height}.jpg",
+  "coverURL": null
+ }
+}

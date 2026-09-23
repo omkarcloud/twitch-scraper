@@ -1,0 +1,1292 @@
+{
+ "user": {
+  "id": "71092938",
+  "login": "xqc",
+  "displayName": "xQc",
+  "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+  "roles": {
+   "isPartner": true,
+   "isAffiliate": false
+  },
+  "subscriptionProducts": [
+   {
+    "id": "13522",
+    "name": "xqcow",
+    "tier": "1000",
+    "displayName": "Channel Subscription (xqcow)",
+    "emoteSetID": "19503",
+    "emotes": [
+     {
+      "id": "emotesv2_3a5b59f49ec2433bb76a0071ec4997bb",
+      "token": "xqcSlam",
+      "setID": "359369083"
+     },
+     {
+      "id": "emotesv2_d9dc5705d728493ebf3f0ae0be3fc578",
+      "token": "xqcCheer",
+      "setID": "359369083"
+     },
+     {
+      "id": "emotesv2_d210039682c6418086b5194ca24e70bd",
+      "token": "xqcSus",
+      "setID": "359369083"
+     },
+     {
+      "id": "emotesv2_c2f18c53b60f4ab6a3141d52f5c741fd",
+      "token": "xqcCursed",
+      "setID": "359369083"
+     },
+     {
+      "id": "emotesv2_c13937fb5d0341ee9fb0b7da1a6ad13b",
+      "token": "xqcDitch",
+      "setID": "359369083"
+     },
+     {
+      "id": "305535174",
+      "token": "xqcOmega",
+      "setID": "19503"
+     },
+     {
+      "id": "305362983",
+      "token": "xqcHead",
+      "setID": "19503"
+     },
+     {
+      "id": "304985516",
+      "token": "xqcCo",
+      "setID": "19503"
+     },
+     {
+      "id": "304985497",
+      "token": "xqcRich",
+      "setID": "19503"
+     },
+     {
+      "id": "304985479",
+      "token": "xqcNom",
+      "setID": "19503"
+     },
+     {
+      "id": "302334343",
+      "token": "xqcTL",
+      "setID": "19503"
+     },
+     {
+      "id": "302334335",
+      "token": "xqcDUD",
+      "setID": "19503"
+     },
+     {
+      "id": "301614364",
+      "token": "xqcC",
+      "setID": "19503"
+     },
+     {
+      "id": "301597868",
+      "token": "xqcI",
+      "setID": "19503"
+     },
+     {
+      "id": "301445381",
+      "token": "xqcPeepo",
+      "setID": "19503"
+     },
+     {
+      "id": "301361407",
+      "token": "xqcK",
+      "setID": "19503"
+     },
+     {
+      "id": "301334587",
+      "token": "xqcStare",
+      "setID": "19503"
+     },
+     {
+      "id": "300817235",
+      "token": "xqcHAA",
+      "setID": "19503"
+     },
+     {
+      "id": "300696052",
+      "token": "xqcMS",
+      "setID": "19503"
+     },
+     {
+      "id": "300521373",
+      "token": "xqcTree",
+      "setID": "19503"
+     },
+     {
+      "id": "300320354",
+      "token": "xqcSkip",
+      "setID": "19503"
+     },
+     {
+      "id": "1907227",
+      "token": "xqcY",
+      "setID": "19503"
+     },
+     {
+      "id": "1907217",
+      "token": "xqcTOS",
+      "setID": "19503"
+     },
+     {
+      "id": "1480140",
+      "token": "xqcA",
+      "setID": "19503"
+     },
+     {
+      "id": "1454368",
+      "token": "xqcWut",
+      "setID": "19503"
+     },
+     {
+      "id": "1369231",
+      "token": "xqcF",
+      "setID": "19503"
+     },
+     {
+      "id": "1332990",
+      "token": "xqcN",
+      "setID": "19503"
+     },
+     {
+      "id": "1227110",
+      "token": "xqcPrime",
+      "setID": "19503"
+     },
+     {
+      "id": "1153770",
+      "token": "xqcHands",
+      "setID": "19503"
+     },
+     {
+      "id": "1035696",
+      "token": "xqcG",
+      "setID": "19503"
+     },
+     {
+      "id": "1035693",
+      "token": "xqcJuice",
+      "setID": "19503"
+     },
+     {
+      "id": "1035688",
+      "token": "xqcDab",
+      "setID": "19503"
+     },
+     {
+      "id": "1035681",
+      "token": "xqcH",
+      "setID": "19503"
+     },
+     {
+      "id": "1035672",
+      "token": "xqcM",
+      "setID": "19503"
+     },
+     {
+      "id": "1035670",
+      "token": "xqcLook",
+      "setID": "19503"
+     },
+     {
+      "id": "1035667",
+      "token": "xqcEZ",
+      "setID": "19503"
+     },
+     {
+      "id": "1035664",
+      "token": "xqcRage",
+      "setID": "19503"
+     },
+     {
+      "id": "1035663",
+      "token": "xqcL",
+      "setID": "19503"
+     },
+     {
+      "id": "932293",
+      "token": "xqcOld",
+      "setID": "19503"
+     },
+     {
+      "id": "932291",
+      "token": "xqcT",
+      "setID": "19503"
+     },
+     {
+      "id": "880747",
+      "token": "xqcE",
+      "setID": "19503"
+     },
+     {
+      "id": "880744",
+      "token": "xqcArm1",
+      "setID": "19503"
+     },
+     {
+      "id": "880743",
+      "token": "xqcArm2",
+      "setID": "19503"
+     },
+     {
+      "id": "846547",
+      "token": "xqcSmile",
+      "setID": "19503"
+     },
+     {
+      "id": "750591",
+      "token": "xqcSad",
+      "setID": "19503"
+     },
+     {
+      "id": "713028",
+      "token": "xqcSleeper",
+      "setID": "19503"
+     },
+     {
+      "id": "713024",
+      "token": "xqcFace",
+      "setID": "19503"
+     },
+     {
+      "id": "684863",
+      "token": "xqcJ",
+      "setID": "19503"
+     },
+     {
+      "id": "632233",
+      "token": "xqcMood",
+      "setID": "19503"
+     },
+     {
+      "id": "631277",
+      "token": "xqcSmug",
+      "setID": "19503"
+     },
+     {
+      "id": "631262",
+      "token": "xqcHYPERF",
+      "setID": "19503"
+     },
+     {
+      "id": "631256",
+      "token": "xqcSkull",
+      "setID": "19503"
+     },
+     {
+      "id": "581053",
+      "token": "xqcS",
+      "setID": "19503"
+     },
+     {
+      "id": "449282",
+      "token": "xqcSword",
+      "setID": "19503"
+     },
+     {
+      "id": "156895",
+      "token": "xqcKek",
+      "setID": "19503"
+     },
+     {
+      "id": "emotesv2_f53ebfa6b39f42bcbcfc09b50e565621",
+      "token": "xqcDespair",
+      "setID": "19503"
+     },
+     {
+      "id": "emotesv2_453537635a4748a2a826ad0d7b9769d2",
+      "token": "xqcAm",
+      "setID": "19503"
+     },
+     {
+      "id": "emotesv2_a3844a4a0bc7409f9ecd56f3fb554f4c",
+      "token": "xqcTF",
+      "setID": "19503"
+     },
+     {
+      "id": "emotesv2_9563d7c198dd422e8253c38cb1249cdd",
+      "token": "xqcP",
+      "setID": "19503"
+     }
+    ]
+   },
+   {
+    "id": "25482",
+    "name": "xqcow_2000",
+    "tier": "2000",
+    "displayName": "Channel Subscription (xqcow): $9.99 Sub",
+    "emoteSetID": "31465",
+    "emotes": [
+     {
+      "id": "emotesv2_adcbb7248fc44fee98d1476d7a6d6170",
+      "token": "xqcSheesh",
+      "setID": "31465"
+     },
+     {
+      "id": "emotesv2_2ef385f010a845ada7cce161a51f220b",
+      "token": "xqcJoy",
+      "setID": "31465"
+     },
+     {
+      "id": "emotesv2_1cde1f12aeaa4864812461e59cd579ae",
+      "token": "xqcDrip",
+      "setID": "31465"
+     },
+     {
+      "id": "emotesv2_e4ef569f6f284b809ec55bb33d236f6f",
+      "token": "xqcCringe",
+      "setID": "31465"
+     }
+    ]
+   },
+   {
+    "id": "25483",
+    "name": "xqcow_3000",
+    "tier": "3000",
+    "displayName": "Channel Subscription (xqcow): $24.99 Sub",
+    "emoteSetID": "31466",
+    "emotes": [
+     {
+      "id": "300696047",
+      "token": "xqcLove",
+      "setID": "31466"
+     },
+     {
+      "id": "emotesv2_7c18e529dac4445c823af5e20a8c92e3",
+      "token": "xqcWtf",
+      "setID": "31466"
+     },
+     {
+      "id": "emotesv2_9a892d42b94f46659175a31d0813e58c",
+      "token": "xqcClown",
+      "setID": "31466"
+     }
+    ]
+   }
+  ],
+  "cheer": {
+   "cheerGroups": [
+    {
+     "nodes": [
+      {
+       "id": "Charity",
+       "prefix": "Charity",
+       "tiers": [
+        {
+         "bits": 1,
+         "color": "",
+         "images": []
+        },
+        {
+         "bits": 100,
+         "color": "",
+         "images": []
+        },
+        {
+         "bits": 1000,
+         "color": "",
+         "images": []
+        },
+        {
+         "bits": 5000,
+         "color": "",
+         "images": []
+        },
+        {
+         "bits": 10000,
+         "color": "",
+         "images": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "broadcastBadges": [
+   {
+    "id": "Yml0czsxMDAwMDs3MTA5MjkzOA==",
+    "setID": "bits",
+    "version": "10000",
+    "title": "cheer 10000",
+    "description": "cheer 10000",
+    "clickAction": "VISIT_URL",
+    "clickURL": "https://help.twitch.tv/s/article/guide-to-cheering-with-bits",
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/6c5170c1-96e0-44f1-93eb-55c02f6a66f9/2"
+   },
+   {
+    "id": "Yml0czs0MDAwMDA7NzEwOTI5Mzg=",
+    "setID": "bits",
+    "version": "400000",
+    "title": "cheer 400000",
+    "description": "cheer 400000",
+    "clickAction": "VISIT_URL",
+    "clickURL": "https://help.twitch.tv/s/article/guide-to-cheering-with-bits",
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/f13eae65-b81d-418c-b57b-cd7a33cbe5c3/2"
+   },
+   {
+    "id": "Yml0czsyNTAwMDs3MTA5MjkzOA==",
+    "setID": "bits",
+    "version": "25000",
+    "title": "cheer 25000",
+    "description": "cheer 25000",
+    "clickAction": "VISIT_URL",
+    "clickURL": "https://help.twitch.tv/s/article/guide-to-cheering-with-bits",
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/c8338101-948a-4a2d-abea-0884b08d75c4/2"
+   },
+   {
+    "id": "Yml0czs1MDAwOzcxMDkyOTM4",
+    "setID": "bits",
+    "version": "5000",
+    "title": "cheer 5000",
+    "description": "cheer 5000",
+    "clickAction": "VISIT_URL",
+    "clickURL": "https://help.twitch.tv/s/article/guide-to-cheering-with-bits",
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/f8a33d94-2298-4bb4-8991-eeaaafcea359/2"
+   },
+   {
+    "id": "Yml0czsxMDA7NzEwOTI5Mzg=",
+    "setID": "bits",
+    "version": "100",
+    "title": "cheer 100",
+    "description": "cheer 100",
+    "clickAction": "VISIT_URL",
+    "clickURL": "https://help.twitch.tv/s/article/guide-to-cheering-with-bits",
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/7695da2c-7e42-4652-9b94-a3f695b0ebfc/2"
+   },
+   {
+    "id": "Yml0czs3NTAwMDs3MTA5MjkzOA==",
+    "setID": "bits",
+    "version": "75000",
+    "title": "cheer 75000",
+    "description": "cheer 75000",
+    "clickAction": "VISIT_URL",
+    "clickURL": "https://help.twitch.tv/s/article/guide-to-cheering-with-bits",
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/e47f1661-ee4a-4e5c-9cd5-d927b5121109/2"
+   },
+   {
+    "id": "Yml0czs1MDAwMDA7NzEwOTI5Mzg=",
+    "setID": "bits",
+    "version": "500000",
+    "title": "cheer 500000",
+    "description": "cheer 500000",
+    "clickAction": "VISIT_URL",
+    "clickURL": "https://help.twitch.tv/s/article/guide-to-cheering-with-bits",
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/d24f235b-8d9b-4d55-b7b1-732cb775b391/2"
+   },
+   {
+    "id": "Yml0czsxMDAwMDA7NzEwOTI5Mzg=",
+    "setID": "bits",
+    "version": "100000",
+    "title": "cheer 100000",
+    "description": "cheer 100000",
+    "clickAction": "VISIT_URL",
+    "clickURL": "https://help.twitch.tv/s/article/guide-to-cheering-with-bits",
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/d99ca01f-94e0-4395-9b9a-8c8eccd4ec92/2"
+   },
+   {
+    "id": "Yml0czsxMDAwOzcxMDkyOTM4",
+    "setID": "bits",
+    "version": "1000",
+    "title": "cheer 1000",
+    "description": "cheer 1000",
+    "clickAction": "VISIT_URL",
+    "clickURL": "https://help.twitch.tv/s/article/guide-to-cheering-with-bits",
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/8e443882-eba2-40ed-aee2-8f66995a4205/2"
+   },
+   {
+    "id": "Yml0czs1MDAwMDs3MTA5MjkzOA==",
+    "setID": "bits",
+    "version": "50000",
+    "title": "cheer 50000",
+    "description": "cheer 50000",
+    "clickAction": "VISIT_URL",
+    "clickURL": "https://help.twitch.tv/s/article/guide-to-cheering-with-bits",
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/b682a073-d4bf-4155-be6a-dffb53671b7b/2"
+   },
+   {
+    "id": "Yml0czszMDAwMDA7NzEwOTI5Mzg=",
+    "setID": "bits",
+    "version": "300000",
+    "title": "cheer 300000",
+    "description": "cheer 300000",
+    "clickAction": "VISIT_URL",
+    "clickURL": "https://help.twitch.tv/s/article/guide-to-cheering-with-bits",
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/0d693257-b3d1-4f39-af5b-ada537cee01a/2"
+   },
+   {
+    "id": "Yml0czsyMDAwMDA7NzEwOTI5Mzg=",
+    "setID": "bits",
+    "version": "200000",
+    "title": "cheer 200000",
+    "description": "cheer 200000",
+    "clickAction": "VISIT_URL",
+    "clickURL": "https://help.twitch.tv/s/article/guide-to-cheering-with-bits",
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/e444436e-b83b-4377-974f-0b1f84d9cbd9/2"
+   },
+   {
+    "id": "Y2FtcGFpZ24tNzEwOTI5MzgtYzcyMzgxMmEtYjA3NC00ODM3LTk0ZDAtODM4Njc5NjRjZWNhLXN1YjsxOzcxMDkyOTM4",
+    "setID": "campaign-71092938-c723812a-b074-4837-94d0-83867964ceca-sub",
+    "version": "1",
+    "title": "JP",
+    "description": "Channel Campaign Badge",
+    "clickAction": null,
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/c91a6181-4ef9-424a-b638-5712212eda02/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjswOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "0",
+    "title": "Subscriber",
+    "description": "Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/42212029-4b13-4e76-91b5-c8d7d520a08a/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsxODs3MTA5MjkzOA==",
+    "setID": "subscriber",
+    "version": "18",
+    "title": "1.5-Year Subscriber",
+    "description": "1.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/5d81cf33-3855-4b79-9983-b636a97d2c78/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMTAyOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3102",
+    "title": "8.5-Year Subscriber",
+    "description": "8.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/1b5bfeb4-e6e7-4ade-a8ae-ffe43590fbc9/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDA2OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2006",
+    "title": "6-Month Subscriber",
+    "description": "6-Month Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/4c489109-0514-415a-8299-25b985ab8672/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDAzOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2003",
+    "title": "3-Month Subscriber",
+    "description": "3-Month Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/2cb07d59-38fc-43b3-ba43-18c05e442f9e/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDc4OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2078",
+    "title": "6.5-Year Subscriber",
+    "description": "6.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/77959e7f-f232-45ae-bea8-52b50bf94233/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDQyOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3042",
+    "title": "3.5-Year Subscriber",
+    "description": "3.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/6bfa36ae-f65d-4feb-8d53-b1b55e6a6002/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsxMDI7NzEwOTI5Mzg=",
+    "setID": "subscriber",
+    "version": "102",
+    "title": "8.5-Year Subscriber",
+    "description": "8.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/5eafd8c7-2606-429f-b8d2-ef1cb3a18e34/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjs5Njs3MTA5MjkzOA==",
+    "setID": "subscriber",
+    "version": "96",
+    "title": "8-Year Subscriber",
+    "description": "8-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/d3a67900-5d25-4f8e-8583-6d88f1a4915d/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjs2MDs3MTA5MjkzOA==",
+    "setID": "subscriber",
+    "version": "60",
+    "title": "5-Year Subscriber",
+    "description": "5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/977b4b6f-3923-4747-a416-119795e1c96a/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDA5OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3009",
+    "title": "9-Month Subscriber",
+    "description": "9-Month Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/72592b47-8b4e-4bb4-a414-f4f6fe24cdaa/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2",
+    "title": "2-Month Subscriber",
+    "description": "2-Month Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/ad6a380a-1cbe-4d63-bb22-3f2843f7d243/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjs3ODs3MTA5MjkzOA==",
+    "setID": "subscriber",
+    "version": "78",
+    "title": "6.5-Year Subscriber",
+    "description": "6.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/83c831b9-660d-41f8-8add-d18e82fb6a10/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsxMjY7NzEwOTI5Mzg=",
+    "setID": "subscriber",
+    "version": "126",
+    "title": "10.5-Year Subscriber",
+    "description": "10.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/e2e59d7c-363d-4eba-a495-a77eef2915c8/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMTE0OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2114",
+    "title": "9.5-Year Subscriber",
+    "description": "9.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/c3ed6ec6-8345-4c41-949d-66d5235b589b/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDkwOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2090",
+    "title": "7.5-Year Subscriber",
+    "description": "7.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/e68de13d-3dde-4bba-a1a6-16b6b614dc02/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjs2OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "6",
+    "title": "6-Month Subscriber",
+    "description": "6-Month Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/49a31432-3515-440f-8b57-f74b6bb156df/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMTI2OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2126",
+    "title": "10.5-Year Subscriber",
+    "description": "10.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/1298a7d7-a2d8-4487-ad21-6f7c64653658/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjs4NDs3MTA5MjkzOA==",
+    "setID": "subscriber",
+    "version": "84",
+    "title": "7-Year Subscriber",
+    "description": "7-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/d91ece02-1529-48fd-8bc6-9f5b0a37e672/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjs5MDs3MTA5MjkzOA==",
+    "setID": "subscriber",
+    "version": "90",
+    "title": "7.5-Year Subscriber",
+    "description": "7.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/e89a52e6-2933-472b-ad1d-4f9b61894a6c/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyNDs3MTA5MjkzOA==",
+    "setID": "subscriber",
+    "version": "24",
+    "title": "2-Year Subscriber",
+    "description": "2-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/4a52ff82-3da8-4863-b7c3-8fc236c8f4de/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDM2OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3036",
+    "title": "3-Year Subscriber",
+    "description": "3-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/b4ede532-a27a-4df9-9591-a193b5b0f8bc/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsxMTQ7NzEwOTI5Mzg=",
+    "setID": "subscriber",
+    "version": "114",
+    "title": "9.5-Year Subscriber",
+    "description": "9.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/c3d20c99-ae4a-4b3c-b0b0-c466b70ee92b/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMTAyOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2102",
+    "title": "8.5-Year Subscriber",
+    "description": "8.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/3a3c49d9-467d-463f-8487-7121b7152517/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDI0OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2024",
+    "title": "2-Year Subscriber",
+    "description": "2-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/acfec79f-6fb7-457a-a1b8-5fe87b55e9c2/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMTI2OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3126",
+    "title": "10.5-Year Subscriber",
+    "description": "10.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/f992210a-6da4-4ddc-b7d8-8490b4a23561/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDA2OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3006",
+    "title": "6-Month Subscriber",
+    "description": "6-Month Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/72511b54-50fb-42eb-8e0d-744b35f3d278/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjs5OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "9",
+    "title": "9-Month Subscriber",
+    "description": "9-Month Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/98a6b69b-3c08-4e59-a53c-b680e4dfbefb/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDY2OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3066",
+    "title": "5.5-Year Subscriber",
+    "description": "5.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/d0bc0614-4c36-44eb-a2c6-4f6d107bdec4/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDAwOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3000",
+    "title": "Subscriber",
+    "description": "Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/bc880389-00a3-4235-b0b7-bdefb3b00989/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDs3MTA5MjkzOA==",
+    "setID": "subscriber",
+    "version": "30",
+    "title": "2.5-Year Subscriber",
+    "description": "2.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/cfc78670-1b59-42d4-970a-305962e445dd/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3",
+    "title": "3-Month Subscriber",
+    "description": "3-Month Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/f944dba1-498a-4a78-a74e-587ae32aebda/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDg0OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3084",
+    "title": "7-Year Subscriber",
+    "description": "7-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/b6c38aa8-5391-4e14-9b6e-ec99c99c5ae8/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDkwOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3090",
+    "title": "7.5-Year Subscriber",
+    "description": "7.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/a049b2ae-78c6-423f-a16a-27e27b0bcf67/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjs2Njs3MTA5MjkzOA==",
+    "setID": "subscriber",
+    "version": "66",
+    "title": "5.5-Year Subscriber",
+    "description": "5.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/0d914fbd-371b-479f-aceb-34dc3b9d7cc3/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDc4OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3078",
+    "title": "6.5-Year Subscriber",
+    "description": "6.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/c2da8714-a717-449d-93e0-41189709320d/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDI0OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3024",
+    "title": "2-Year Subscriber",
+    "description": "2-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/d7a0c6d6-68a9-442a-bef1-7931cddb3caf/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDM2OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2036",
+    "title": "3-Year Subscriber",
+    "description": "3-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/99373278-843f-4194-a2d8-3ec1a55a9c70/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszNjs3MTA5MjkzOA==",
+    "setID": "subscriber",
+    "version": "36",
+    "title": "3-Year Subscriber",
+    "description": "3-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/003036de-dcca-41be-851c-62ecb4400373/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDYwOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2060",
+    "title": "5-Year Subscriber",
+    "description": "5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/aa6ee603-80f6-41e9-b4f1-b3f6942dad65/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDA5OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2009",
+    "title": "9-Month Subscriber",
+    "description": "9-Month Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/c1b777c7-e301-418a-a158-3c0cac7d4d8a/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDEyOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3012",
+    "title": "1-Year Subscriber",
+    "description": "1-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/55382468-e07b-462c-a2a4-f56caf9ae155/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDQ4OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2048",
+    "title": "4-Year Subscriber",
+    "description": "4-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/f9ad5356-71dd-41bb-a7cd-92408844186e/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDQ4OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3048",
+    "title": "4-Year Subscriber",
+    "description": "4-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/a3b25d22-7dbb-4c93-91e2-5ab56440bf9a/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDQyOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2042",
+    "title": "3.5-Year Subscriber",
+    "description": "3.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/601558b1-eea0-4014-859a-b99c85517c2b/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjs0Mjs3MTA5MjkzOA==",
+    "setID": "subscriber",
+    "version": "42",
+    "title": "3.5-Year Subscriber",
+    "description": "3.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/ecf16608-a321-4b02-b22c-83489436be8b/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDAwOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2000",
+    "title": "Subscriber",
+    "description": "Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/72467880-2890-4d73-9c92-4bcda0f89299/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMTA4OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2108",
+    "title": "9-Year Subscriber",
+    "description": "9-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/47bc6fa9-a310-40cd-9298-9d42ce5eee95/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDk2OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3096",
+    "title": "8-Year Subscriber",
+    "description": "8-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/0701c189-0e2b-4a14-bc69-07087bbcf1c1/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDMwOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3030",
+    "title": "2.5-Year Subscriber",
+    "description": "2.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/62dbf0ee-cfe4-433d-af97-83aaa4e56548/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDU0OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3054",
+    "title": "4.5-Year Subscriber",
+    "description": "4.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/774975e4-8880-471c-8972-c07514f9a70c/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDEyOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2012",
+    "title": "1-Year Subscriber",
+    "description": "1-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/dde34f6d-716e-43e4-be35-c63ffa744eb3/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDcyOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2072",
+    "title": "6-Year Subscriber",
+    "description": "6-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/1a5c74f7-a000-45a1-85f3-260200ee3c51/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjs1NDs3MTA5MjkzOA==",
+    "setID": "subscriber",
+    "version": "54",
+    "title": "4.5-Year Subscriber",
+    "description": "4.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/157581d0-b4fa-4a90-a4c4-532c80b52af8/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjs0ODs3MTA5MjkzOA==",
+    "setID": "subscriber",
+    "version": "48",
+    "title": "4-Year Subscriber",
+    "description": "4-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/a6123ea1-c396-4e97-ba80-40a4bd388bc0/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsxMDg7NzEwOTI5Mzg=",
+    "setID": "subscriber",
+    "version": "108",
+    "title": "9-Year Subscriber",
+    "description": "9-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/e1837150-eb9d-405a-a146-049eae6e2576/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDcyOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3072",
+    "title": "6-Year Subscriber",
+    "description": "6-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/86327417-fa8c-4ce8-96bc-bc59d194719a/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsxMjs3MTA5MjkzOA==",
+    "setID": "subscriber",
+    "version": "12",
+    "title": "1-Year Subscriber",
+    "description": "1-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/fd0dd500-9bdc-4c38-b7eb-a6009c5f6aed/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjs3Mjs3MTA5MjkzOA==",
+    "setID": "subscriber",
+    "version": "72",
+    "title": "6-Year Subscriber",
+    "description": "6-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/da69fb3c-e268-431b-93e3-0be828b26447/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDAyOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3002",
+    "title": "2-Month Subscriber",
+    "description": "2-Month Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/9f6c1d38-814e-41f4-b929-9bda149957d0/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDAyOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2002",
+    "title": "2-Month Subscriber",
+    "description": "2-Month Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/cfe48f2d-b1d6-41ce-b990-5ad22c8df175/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDAzOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3003",
+    "title": "3-Month Subscriber",
+    "description": "3-Month Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/014d0940-fdd2-4f09-8b18-07d8fb9a9fc8/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDE4OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3018",
+    "title": "1.5-Year Subscriber",
+    "description": "1.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/76f0e314-50d5-4c0e-83e9-3c6502a83ffd/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDY2OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2066",
+    "title": "5.5-Year Subscriber",
+    "description": "5.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/4fd4d194-b94c-418d-9863-9903a1bf2046/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMTIwOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2120",
+    "title": "10-Year Subscriber",
+    "description": "10-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/77eb16d6-44db-45f5-bf5a-42073d5192fd/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDk2OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2096",
+    "title": "8-Year Subscriber",
+    "description": "8-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/d4aedb7b-f574-46a1-9e1b-dad4dc03ba95/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDE4OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2018",
+    "title": "1.5-Year Subscriber",
+    "description": "1.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/6dae756e-c977-4c0e-bc07-3fdd143b18a9/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMTA4OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3108",
+    "title": "9-Year Subscriber",
+    "description": "9-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/79da783d-bdef-48dc-9846-1644f6f366d0/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDg0OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2084",
+    "title": "7-Year Subscriber",
+    "description": "7-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/57632412-450d-41aa-90f8-0efa706b0114/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMTIwOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3120",
+    "title": "10-Year Subscriber",
+    "description": "10-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/f80af16c-443e-4fd3-a51f-4b873a92632c/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDU0OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2054",
+    "title": "4.5-Year Subscriber",
+    "description": "4.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/b7985d4f-ccd9-4507-9c97-d729b2f16b19/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMDYwOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3060",
+    "title": "5-Year Subscriber",
+    "description": "5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/fbf60141-4642-49f7-afb9-06c441c5db1a/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsxMjA7NzEwOTI5Mzg=",
+    "setID": "subscriber",
+    "version": "120",
+    "title": "10-Year Subscriber",
+    "description": "10-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/60d06576-cf62-4d91-9803-f88c0178e33e/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjszMTE0OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "3114",
+    "title": "9.5-Year Subscriber",
+    "description": "9.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/c0bbe6cc-870d-40ea-99af-cad262d14fe7/2"
+   },
+   {
+    "id": "c3Vic2NyaWJlcjsyMDMwOzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "2030",
+    "title": "2.5-Year Subscriber",
+    "description": "2.5-Year Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/43816eb8-0f6e-470d-9e2b-87301b0de1b3/2"
+   }
+  ]
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "games": {
+  "edges": [
+   {
+    "cursor": "eyJzIjoxLCJkIjpmYWxzZSwidCI6dHJ1ZX0=",
+    "node": {
+     "id": "509658",
+     "name": "Just Chatting",
+     "displayName": "Just Chatting",
+     "slug": "just-chatting",
+     "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg",
+     "viewersCount": 133509,
+     "followersCount": 53210678,
+     "tags": [
+      {
+       "id": "2610cff9-10ae-4cb3-8500-778e6722fbb5",
+       "localizedName": "IRL"
+      }
+     ]
+    }
+   },
+   {
+    "cursor": "eyJzIjoyLCJkIjpmYWxzZSwidCI6dHJ1ZX0=",
+    "node": {
+     "id": "29595",
+     "name": "Dota 2",
+     "displayName": "Dota 2",
+     "slug": "dota-2",
+     "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/29595-285x380.jpg",
+     "viewersCount": 71935,
+     "followersCount": 18371619,
+     "tags": [
+      {
+       "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
+       "localizedName": "Strategy"
+      },
+      {
+       "id": "12510423-d1f6-4992-8aea-1441a43d1df4",
+       "localizedName": "MOBA"
+      },
+      {
+       "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+       "localizedName": "Action"
+      }
+     ]
+    }
+   },
+   {
+    "cursor": "eyJzIjozLCJkIjpmYWxzZSwidCI6dHJ1ZX0=",
+    "node": {
+     "id": "18122",
+     "name": "World of Warcraft",
+     "displayName": "World of Warcraft",
+     "slug": "world-of-warcraft",
+     "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/18122-285x380.jpg",
+     "viewersCount": 61429,
+     "followersCount": 11019277,
+     "tags": [
+      {
+       "id": "9d38085e-ee62-4203-877b-81797052a18b",
+       "localizedName": "RPG"
+      },
+      {
+       "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+       "localizedName": "Adventure Game"
+      },
+      {
+       "id": "643fe658-c4fc-45f0-9aed-cbe54a7c1d10",
+       "localizedName": "MMO"
+      },
+      {
+       "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+       "localizedName": "Action"
+      },
+      {
+       "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
+       "localizedName": "Open World"
+      }
+     ]
+    }
+   },
+   {
+    "cursor": "eyJzIjo0LCJkIjpmYWxzZSwidCI6dHJ1ZX0=",
+    "node": {
+     "id": "21779",
+     "name": "League of Legends",
+     "displayName": "League of Legends",
+     "slug": "league-of-legends",
+     "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/21779-285x380.jpg",
+     "viewersCount": 44363,
+     "followersCount": 38736175,
+     "tags": [
+      {
+       "id": "9d38085e-ee62-4203-877b-81797052a18b",
+       "localizedName": "RPG"
+      },
+      {
+       "id": "857fce92-df0c-4c8c-8c60-28e0c5f7d8ae",
+       "localizedName": "Strategy"
+      },
+      {
+       "id": "12510423-d1f6-4992-8aea-1441a43d1df4",
+       "localizedName": "MOBA"
+      },
+      {
+       "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+       "localizedName": "Action"
+      }
+     ]
+    }
+   },
+   {
+    "cursor": "eyJzIjo1LCJkIjpmYWxzZSwidCI6dHJ1ZX0=",
+    "node": {
+     "id": "516575",
+     "name": "VALORANT",
+     "displayName": "VALORANT",
+     "slug": "valorant",
+     "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/516575-285x380.jpg",
+     "viewersCount": 41242,
+     "followersCount": 20671714,
+     "tags": [
+      {
+       "id": "a69f7ffb-ddda-4c05-8d7d-f0b24975a2c3",
+       "localizedName": "FPS"
+      },
+      {
+       "id": "523fe736-fa95-44c7-b22f-13008ca2172c",
+       "localizedName": "Shooter"
+      },
+      {
+       "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+       "localizedName": "Action"
+      }
+     ]
+    }
+   }
+  ],
+  "pageInfo": {
+   "hasNextPage": true
+  }
+ }
+}

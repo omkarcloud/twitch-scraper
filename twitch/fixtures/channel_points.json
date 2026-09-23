@@ -1,0 +1,651 @@
+{
+ "user": {
+  "id": "71092938",
+  "login": "xqc",
+  "displayName": "xQc",
+  "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+  "roles": {
+   "isPartner": true,
+   "isAffiliate": false
+  },
+  "channel": {
+   "communityPointsSettings": {
+    "name": null,
+    "isEnabled": true,
+    "image": null,
+    "emoteVariants": [
+     {
+      "id": "1480140",
+      "isUnlockable": true,
+      "emote": {
+       "id": "1480140",
+       "token": "xqcA"
+      }
+     },
+     {
+      "id": "emotesv2_453537635a4748a2a826ad0d7b9769d2",
+      "isUnlockable": true,
+      "emote": {
+       "id": "emotesv2_453537635a4748a2a826ad0d7b9769d2",
+       "token": "xqcAm"
+      }
+     },
+     {
+      "id": "880744",
+      "isUnlockable": true,
+      "emote": {
+       "id": "880744",
+       "token": "xqcArm1"
+      }
+     },
+     {
+      "id": "880743",
+      "isUnlockable": true,
+      "emote": {
+       "id": "880743",
+       "token": "xqcArm2"
+      }
+     },
+     {
+      "id": "301614364",
+      "isUnlockable": true,
+      "emote": {
+       "id": "301614364",
+       "token": "xqcC"
+      }
+     },
+     {
+      "id": "emotesv2_9a892d42b94f46659175a31d0813e58c",
+      "isUnlockable": false,
+      "emote": {
+       "id": "emotesv2_9a892d42b94f46659175a31d0813e58c",
+       "token": "xqcClown"
+      }
+     },
+     {
+      "id": "304985516",
+      "isUnlockable": true,
+      "emote": {
+       "id": "304985516",
+       "token": "xqcCo"
+      }
+     },
+     {
+      "id": "emotesv2_e4ef569f6f284b809ec55bb33d236f6f",
+      "isUnlockable": false,
+      "emote": {
+       "id": "emotesv2_e4ef569f6f284b809ec55bb33d236f6f",
+       "token": "xqcCringe"
+      }
+     },
+     {
+      "id": "302334335",
+      "isUnlockable": true,
+      "emote": {
+       "id": "302334335",
+       "token": "xqcDUD"
+      }
+     },
+     {
+      "id": "1035688",
+      "isUnlockable": true,
+      "emote": {
+       "id": "1035688",
+       "token": "xqcDab"
+      }
+     },
+     {
+      "id": "emotesv2_f53ebfa6b39f42bcbcfc09b50e565621",
+      "isUnlockable": true,
+      "emote": {
+       "id": "emotesv2_f53ebfa6b39f42bcbcfc09b50e565621",
+       "token": "xqcDespair"
+      }
+     },
+     {
+      "id": "emotesv2_1cde1f12aeaa4864812461e59cd579ae",
+      "isUnlockable": false,
+      "emote": {
+       "id": "emotesv2_1cde1f12aeaa4864812461e59cd579ae",
+       "token": "xqcDrip"
+      }
+     },
+     {
+      "id": "880747",
+      "isUnlockable": true,
+      "emote": {
+       "id": "880747",
+       "token": "xqcE"
+      }
+     },
+     {
+      "id": "1035667",
+      "isUnlockable": true,
+      "emote": {
+       "id": "1035667",
+       "token": "xqcEZ"
+      }
+     },
+     {
+      "id": "1369231",
+      "isUnlockable": true,
+      "emote": {
+       "id": "1369231",
+       "token": "xqcF"
+      }
+     },
+     {
+      "id": "713024",
+      "isUnlockable": true,
+      "emote": {
+       "id": "713024",
+       "token": "xqcFace"
+      }
+     },
+     {
+      "id": "1035696",
+      "isUnlockable": true,
+      "emote": {
+       "id": "1035696",
+       "token": "xqcG"
+      }
+     },
+     {
+      "id": "1035681",
+      "isUnlockable": true,
+      "emote": {
+       "id": "1035681",
+       "token": "xqcH"
+      }
+     },
+     {
+      "id": "300817235",
+      "isUnlockable": true,
+      "emote": {
+       "id": "300817235",
+       "token": "xqcHAA"
+      }
+     },
+     {
+      "id": "631262",
+      "isUnlockable": true,
+      "emote": {
+       "id": "631262",
+       "token": "xqcHYPERF"
+      }
+     },
+     {
+      "id": "1153770",
+      "isUnlockable": true,
+      "emote": {
+       "id": "1153770",
+       "token": "xqcHands"
+      }
+     },
+     {
+      "id": "305362983",
+      "isUnlockable": true,
+      "emote": {
+       "id": "305362983",
+       "token": "xqcHead"
+      }
+     },
+     {
+      "id": "301597868",
+      "isUnlockable": true,
+      "emote": {
+       "id": "301597868",
+       "token": "xqcI"
+      }
+     },
+     {
+      "id": "684863",
+      "isUnlockable": true,
+      "emote": {
+       "id": "684863",
+       "token": "xqcJ"
+      }
+     },
+     {
+      "id": "emotesv2_2ef385f010a845ada7cce161a51f220b",
+      "isUnlockable": false,
+      "emote": {
+       "id": "emotesv2_2ef385f010a845ada7cce161a51f220b",
+       "token": "xqcJoy"
+      }
+     },
+     {
+      "id": "1035693",
+      "isUnlockable": true,
+      "emote": {
+       "id": "1035693",
+       "token": "xqcJuice"
+      }
+     },
+     {
+      "id": "301361407",
+      "isUnlockable": true,
+      "emote": {
+       "id": "301361407",
+       "token": "xqcK"
+      }
+     },
+     {
+      "id": "156895",
+      "isUnlockable": true,
+      "emote": {
+       "id": "156895",
+       "token": "xqcKek"
+      }
+     },
+     {
+      "id": "1035663",
+      "isUnlockable": true,
+      "emote": {
+       "id": "1035663",
+       "token": "xqcL"
+      }
+     },
+     {
+      "id": "1035670",
+      "isUnlockable": true,
+      "emote": {
+       "id": "1035670",
+       "token": "xqcLook"
+      }
+     },
+     {
+      "id": "300696047",
+      "isUnlockable": false,
+      "emote": {
+       "id": "300696047",
+       "token": "xqcLove"
+      }
+     },
+     {
+      "id": "1035672",
+      "isUnlockable": true,
+      "emote": {
+       "id": "1035672",
+       "token": "xqcM"
+      }
+     },
+     {
+      "id": "300696052",
+      "isUnlockable": true,
+      "emote": {
+       "id": "300696052",
+       "token": "xqcMS"
+      }
+     },
+     {
+      "id": "632233",
+      "isUnlockable": true,
+      "emote": {
+       "id": "632233",
+       "token": "xqcMood"
+      }
+     },
+     {
+      "id": "1332990",
+      "isUnlockable": true,
+      "emote": {
+       "id": "1332990",
+       "token": "xqcN"
+      }
+     },
+     {
+      "id": "304985479",
+      "isUnlockable": true,
+      "emote": {
+       "id": "304985479",
+       "token": "xqcNom"
+      }
+     },
+     {
+      "id": "932293",
+      "isUnlockable": true,
+      "emote": {
+       "id": "932293",
+       "token": "xqcOld"
+      }
+     },
+     {
+      "id": "305535174",
+      "isUnlockable": true,
+      "emote": {
+       "id": "305535174",
+       "token": "xqcOmega"
+      }
+     },
+     {
+      "id": "emotesv2_9563d7c198dd422e8253c38cb1249cdd",
+      "isUnlockable": true,
+      "emote": {
+       "id": "emotesv2_9563d7c198dd422e8253c38cb1249cdd",
+       "token": "xqcP"
+      }
+     },
+     {
+      "id": "301445381",
+      "isUnlockable": true,
+      "emote": {
+       "id": "301445381",
+       "token": "xqcPeepo"
+      }
+     },
+     {
+      "id": "1227110",
+      "isUnlockable": true,
+      "emote": {
+       "id": "1227110",
+       "token": "xqcPrime"
+      }
+     },
+     {
+      "id": "1035664",
+      "isUnlockable": true,
+      "emote": {
+       "id": "1035664",
+       "token": "xqcRage"
+      }
+     },
+     {
+      "id": "304985497",
+      "isUnlockable": true,
+      "emote": {
+       "id": "304985497",
+       "token": "xqcRich"
+      }
+     },
+     {
+      "id": "581053",
+      "isUnlockable": true,
+      "emote": {
+       "id": "581053",
+       "token": "xqcS"
+      }
+     },
+     {
+      "id": "750591",
+      "isUnlockable": true,
+      "emote": {
+       "id": "750591",
+       "token": "xqcSad"
+      }
+     },
+     {
+      "id": "emotesv2_adcbb7248fc44fee98d1476d7a6d6170",
+      "isUnlockable": false,
+      "emote": {
+       "id": "emotesv2_adcbb7248fc44fee98d1476d7a6d6170",
+       "token": "xqcSheesh"
+      }
+     },
+     {
+      "id": "300320354",
+      "isUnlockable": true,
+      "emote": {
+       "id": "300320354",
+       "token": "xqcSkip"
+      }
+     },
+     {
+      "id": "631256",
+      "isUnlockable": true,
+      "emote": {
+       "id": "631256",
+       "token": "xqcSkull"
+      }
+     },
+     {
+      "id": "713028",
+      "isUnlockable": true,
+      "emote": {
+       "id": "713028",
+       "token": "xqcSleeper"
+      }
+     },
+     {
+      "id": "846547",
+      "isUnlockable": true,
+      "emote": {
+       "id": "846547",
+       "token": "xqcSmile"
+      }
+     },
+     {
+      "id": "631277",
+      "isUnlockable": true,
+      "emote": {
+       "id": "631277",
+       "token": "xqcSmug"
+      }
+     },
+     {
+      "id": "301334587",
+      "isUnlockable": true,
+      "emote": {
+       "id": "301334587",
+       "token": "xqcStare"
+      }
+     },
+     {
+      "id": "449282",
+      "isUnlockable": true,
+      "emote": {
+       "id": "449282",
+       "token": "xqcSword"
+      }
+     },
+     {
+      "id": "932291",
+      "isUnlockable": true,
+      "emote": {
+       "id": "932291",
+       "token": "xqcT"
+      }
+     },
+     {
+      "id": "emotesv2_a3844a4a0bc7409f9ecd56f3fb554f4c",
+      "isUnlockable": true,
+      "emote": {
+       "id": "emotesv2_a3844a4a0bc7409f9ecd56f3fb554f4c",
+       "token": "xqcTF"
+      }
+     },
+     {
+      "id": "302334343",
+      "isUnlockable": true,
+      "emote": {
+       "id": "302334343",
+       "token": "xqcTL"
+      }
+     },
+     {
+      "id": "1907217",
+      "isUnlockable": true,
+      "emote": {
+       "id": "1907217",
+       "token": "xqcTOS"
+      }
+     },
+     {
+      "id": "300521373",
+      "isUnlockable": true,
+      "emote": {
+       "id": "300521373",
+       "token": "xqcTree"
+      }
+     },
+     {
+      "id": "emotesv2_7c18e529dac4445c823af5e20a8c92e3",
+      "isUnlockable": false,
+      "emote": {
+       "id": "emotesv2_7c18e529dac4445c823af5e20a8c92e3",
+       "token": "xqcWtf"
+      }
+     },
+     {
+      "id": "1454368",
+      "isUnlockable": true,
+      "emote": {
+       "id": "1454368",
+       "token": "xqcWut"
+      }
+     },
+     {
+      "id": "1907227",
+      "isUnlockable": true,
+      "emote": {
+       "id": "1907227",
+       "token": "xqcY"
+      }
+     }
+    ],
+    "customRewards": [
+     {
+      "id": "2ea3bd73-6801-4cb8-b692-c8d63dd47776",
+      "title": "END THE STREAM",
+      "prompt": "Force the broadcast to stop. Good one",
+      "cost": 20000000,
+      "isEnabled": false,
+      "isPaused": false,
+      "isInStock": true,
+      "isUserInputRequired": true,
+      "backgroundColor": "#FFA8A8",
+      "shouldRedemptionsSkipRequestQueue": false,
+      "image": null,
+      "defaultImage": {
+       "url": "https://static-cdn.jtvnw.net/custom-reward-images/default-1.png"
+      },
+      "maxPerStreamSetting": {
+       "isEnabled": false,
+       "maxPerStream": 1
+      },
+      "maxPerUserPerStreamSetting": {
+       "isEnabled": false,
+       "maxPerUserPerStream": 0
+      },
+      "globalCooldownSetting": {
+       "isEnabled": false,
+       "globalCooldownSeconds": 0
+      }
+     },
+     {
+      "id": "4e562304-fca9-42ed-b18b-57f7e4fdf3cd",
+      "title": "QUEUE SONG",
+      "prompt": "normal cost is 100k. requests effectively paused until xQc asks for SR again",
+      "cost": 100000000,
+      "isEnabled": true,
+      "isPaused": false,
+      "isInStock": true,
+      "isUserInputRequired": true,
+      "backgroundColor": "#42CB10",
+      "shouldRedemptionsSkipRequestQueue": false,
+      "image": null,
+      "defaultImage": {
+       "url": "https://static-cdn.jtvnw.net/custom-reward-images/default-1.png"
+      },
+      "maxPerStreamSetting": {
+       "isEnabled": false,
+       "maxPerStream": 0
+      },
+      "maxPerUserPerStreamSetting": {
+       "isEnabled": true,
+       "maxPerUserPerStream": 1
+      },
+      "globalCooldownSetting": {
+       "isEnabled": true,
+       "globalCooldownSeconds": 180
+      }
+     },
+     {
+      "id": "ec7962f7-c44f-48f6-9dae-bb58b5987713",
+      "title": "ADD A NEW EMOTE",
+      "prompt": "ADD A NEW EMOTE. WILL REMOVE AND ADD THIS REWARD AS WE GO.",
+      "cost": 1000000,
+      "isEnabled": false,
+      "isPaused": false,
+      "isInStock": false,
+      "isUserInputRequired": false,
+      "backgroundColor": "#8205B3",
+      "shouldRedemptionsSkipRequestQueue": false,
+      "image": null,
+      "defaultImage": {
+       "url": "https://static-cdn.jtvnw.net/custom-reward-images/default-1.png"
+      },
+      "maxPerStreamSetting": {
+       "isEnabled": true,
+       "maxPerStream": 1
+      },
+      "maxPerUserPerStreamSetting": {
+       "isEnabled": false,
+       "maxPerUserPerStream": 0
+      },
+      "globalCooldownSetting": {
+       "isEnabled": false,
+       "globalCooldownSeconds": 0
+      }
+     },
+     {
+      "id": "f2ccc1c4-1132-4674-b9b5-f12e64a97919",
+      "title": "RUN AN AD",
+      "prompt": "FORCE AN AD. GOOD ONE DUDE.",
+      "cost": 300000,
+      "isEnabled": false,
+      "isPaused": true,
+      "isInStock": false,
+      "isUserInputRequired": false,
+      "backgroundColor": "#FF6905",
+      "shouldRedemptionsSkipRequestQueue": false,
+      "image": null,
+      "defaultImage": {
+       "url": "https://static-cdn.jtvnw.net/custom-reward-images/default-1.png"
+      },
+      "maxPerStreamSetting": {
+       "isEnabled": true,
+       "maxPerStream": 3
+      },
+      "maxPerUserPerStreamSetting": {
+       "isEnabled": false,
+       "maxPerUserPerStream": 0
+      },
+      "globalCooldownSetting": {
+       "isEnabled": false,
+       "globalCooldownSeconds": 0
+      }
+     },
+     {
+      "id": "f36d97bc-fefd-4ea5-b2c5-63f67a7bec0d",
+      "title": "Choose a channel emote",
+      "prompt": "Make/upload an emote for everyone to have. Maximum redemption of once per two weeks. (more later). *CURRENTLY DISABLED FOR A LITTLE WHILE*",
+      "cost": 5000000,
+      "isEnabled": true,
+      "isPaused": false,
+      "isInStock": true,
+      "isUserInputRequired": false,
+      "backgroundColor": "#0013A3",
+      "shouldRedemptionsSkipRequestQueue": false,
+      "image": null,
+      "defaultImage": {
+       "url": "https://static-cdn.jtvnw.net/custom-reward-images/default-1.png"
+      },
+      "maxPerStreamSetting": {
+       "isEnabled": false,
+       "maxPerStream": 0
+      },
+      "maxPerUserPerStreamSetting": {
+       "isEnabled": false,
+       "maxPerUserPerStream": 0
+      },
+      "globalCooldownSetting": {
+       "isEnabled": false,
+       "globalCooldownSeconds": 0
+      }
+     }
+    ]
+   }
+  }
+ }
+}

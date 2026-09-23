@@ -1,0 +1,141 @@
+{
+ "user": {
+  "id": "641972806",
+  "login": "kaicenat",
+  "displayName": "KaiCenat",
+  "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf6a04cf-3f44-4986-8eed-5c36bfad542b-profile_image-150x150.png",
+  "roles": {
+   "isPartner": true,
+   "isAffiliate": false
+  },
+  "followers": {
+   "totalCount": 21771318
+  },
+  "channel": {
+   "goals": {
+    "edges": [
+     {
+      "node": {
+       "id": "2oEQj4ww9UzHZHpTjvovKL34tqH",
+       "state": "FINISHED",
+       "contributionType": "SUB_POINTS",
+       "targetContributions": 67000,
+       "currentContributions": 71333,
+       "description": null
+      }
+     },
+     {
+      "node": {
+       "id": "2oE4ExT0YJ3n4UUGVpv6sj6ac4a",
+       "state": "FINISHED",
+       "contributionType": "SUB_POINTS",
+       "targetContributions": 68000,
+       "currentContributions": 66940,
+       "description": null
+      }
+     },
+     {
+      "node": {
+       "id": "2oDXcDUne8ptVoG1uGWs0cFT5J0",
+       "state": "FINISHED",
+       "contributionType": "FOLLOWERS",
+       "targetContributions": 13517129,
+       "currentContributions": 13519427,
+       "description": null
+      }
+     },
+     {
+      "node": {
+       "id": "2oDWOSrrt1HeFs1MtC8Vn6z3zFw",
+       "state": "FINISHED",
+       "contributionType": "FOLLOWERS",
+       "targetContributions": 13517085,
+       "currentContributions": 13517104,
+       "description": null
+      }
+     },
+     {
+      "node": {
+       "id": "2oDVG7G5Qsqqdkju8wiwToEwkqt",
+       "state": "FINISHED",
+       "contributionType": "FOLLOWERS",
+       "targetContributions": 13517042,
+       "currentContributions": 13517052,
+       "description": null
+      }
+     },
+     {
+      "node": {
+       "id": "2oDUx5kHdUkCBUAh6jO9mXCg66C",
+       "state": "FINISHED",
+       "contributionType": "FOLLOWERS",
+       "targetContributions": 13517035,
+       "currentContributions": 13517039,
+       "description": null
+      }
+     },
+     {
+      "node": {
+       "id": "2oDTyC8Ip9Rf7HZXUiSMCKALYJ8",
+       "state": "FINISHED",
+       "contributionType": "FOLLOWERS",
+       "targetContributions": 13517010,
+       "currentContributions": 13517014,
+       "description": null
+      }
+     },
+     {
+      "node": {
+       "id": "2oDS9i1Qm7XAwYPOeGhjrVHxArn",
+       "state": "FINISHED",
+       "contributionType": "FOLLOWERS",
+       "targetContributions": 13600000,
+       "currentContributions": 13516988,
+       "description": null
+      }
+     },
+     {
+      "node": {
+       "id": "2oDS3qwrovEnuyonFDS2sfxFGWr",
+       "state": "FINISHED",
+       "contributionType": "FOLLOWERS",
+       "targetContributions": 13530000,
+       "currentContributions": 13516957,
+       "description": null
+      }
+     },
+     {
+      "node": {
+       "id": "2oCD4GEqsjSQ8hJWKQhFOrjxnf8",
+       "state": "FINISHED",
+       "contributionType": "SUB_POINTS",
+       "targetContributions": 67000,
+       "currentContributions": 67013,
+       "description": null
+      }
+     },
+     {
+      "node": {
+       "id": "2oCCwhi1kxxzgq20mbn9LLilGk3",
+       "state": "FINISHED",
+       "contributionType": "SUB_POINTS",
+       "targetContributions": 68000,
+       "currentContributions": 66768,
+       "description": null
+      }
+     },
+     {
+      "node": {
+       "id": "2oCCsbrTasRkUrZlLyPkN9iZKEI",
+       "state": "FINISHED",
+       "contributionType": "FOLLOWERS",
+       "targetContributions": 13530000,
+       "currentContributions": 13516957,
+       "description": null
+      }
+     }
+    ]
+   }
+  }
+ }
+}

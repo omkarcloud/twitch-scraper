@@ -1,0 +1,135 @@
+{
+ "channelViewer": {
+  "id": "126554702:71092938",
+  "earnedBadges": [
+   {
+    "id": "c3Vic2NyaWJlcjs2OzcxMDkyOTM4",
+    "setID": "subscriber",
+    "version": "6",
+    "title": "6-Month Subscriber",
+    "description": "6-Month Subscriber",
+    "clickAction": "SUBSCRIBE",
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/49a31432-3515-440f-8b57-f74b6bb156df/2"
+   },
+   {
+    "id": "Zm9vdGJhbGwtZmVzdC0yMDI2OzE7",
+    "setID": "football-fest-2026",
+    "version": "1",
+    "title": "Football Fest 2026",
+    "description": "This badge was earned by watching 15 minutes of any of the participating Football Fest channels during Football Fest 2026!",
+    "clickAction": "VISIT_URL",
+    "clickURL": "https://help.twitch.tv/s/article/twitch-chat-badges-guide",
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/2b195857-8531-4487-a998-62fb9dbbe0e5/2"
+   },
+   {
+    "id": "bm9waXhlbC12LWxhdW5jaDsxOw==",
+    "setID": "nopixel-v-launch",
+    "version": "1",
+    "title": "nopixel V Launch",
+    "description": "This badge was earned by subscribing to a GTAV streamer during the nopixel V Launch!",
+    "clickAction": null,
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/6a34b65f-93f6-4ebd-8f75-898bdaff79e8/2"
+   },
+   {
+    "id": "cHJlbWl1bTsxOw==",
+    "setID": "premium",
+    "version": "1",
+    "title": "Prime Gaming",
+    "description": "Prime Gaming",
+    "clickAction": "VISIT_URL",
+    "clickURL": "https://gaming.amazon.com",
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/bbbe0db0-a598-423e-86d0-f9fb98ca1933/2"
+   },
+   {
+    "id": "cmFnaW5nLXdvbGYtaGVsbTsxOw==",
+    "setID": "raging-wolf-helm",
+    "version": "1",
+    "title": "Raging Wolf Helm",
+    "description": "This badge was earned for watching Elden Ring during the initial Shadow of the Erdtree Expansion launch!",
+    "clickAction": null,
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/3ff668be-59a3-4e3e-96af-e6b2908b3171/2"
+   },
+   {
+    "id": "c3VidGVtYmVyLTIwMjY7MTs=",
+    "setID": "subtember-2026",
+    "version": "1",
+    "title": "SUBtember 2026",
+    "description": "Badge given to users who sub, gift, or use bits during SUBtember 2026.",
+    "clickAction": null,
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/6ae639f0-a06d-40a9-ad16-7b7e7c18a323/2"
+   },
+   {
+    "id": "dHdpdGNoLXJlY2FwLTIwMjM7MTs=",
+    "setID": "twitch-recap-2023",
+    "version": "1",
+    "title": "Twitch Recap 2023",
+    "description": "This user bled purple like it was their job, and was one of the most engaged members of Twitch in 2023!",
+    "clickAction": "VISIT_URL",
+    "clickURL": "https://twitch-web.app.link/e/twitch-recap",
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/4d9e9812-ba9b-48a6-8690-13f3f338ee65/2"
+   },
+   {
+    "id": "dHdpdGNoLXJlY2FwLTIwMjQ7MTs=",
+    "setID": "twitch-recap-2024",
+    "version": "1",
+    "title": "Twitch Recap 2024",
+    "description": "The Official Chat Badge of the Year. It takes hard work and KomodoHype to receive it. You should be proud to tell everyone you know about this.",
+    "clickAction": "VISIT_URL",
+    "clickURL": "https://www.twitch.tv/annual-recap",
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/72f2a6ac-3d9b-4406-b9e9-998b27182f61/2"
+   },
+   {
+    "id": "Y2FtcGFpZ24tNzEwOTI5MzgtYzcyMzgxMmEtYjA3NC00ODM3LTk0ZDAtODM4Njc5NjRjZWNhLXN1YjsxOzcxMDkyOTM4",
+    "setID": "campaign-71092938-c723812a-b074-4837-94d0-83867964ceca-sub",
+    "version": "1",
+    "title": "JP",
+    "description": "Channel Campaign Badge",
+    "clickAction": null,
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/c91a6181-4ef9-424a-b638-5712212eda02/2"
+   },
+   {
+    "id": "bW9tZW50czsxOw==",
+    "setID": "moments",
+    "version": "1",
+    "title": "Moments Badge - Tier 1",
+    "description": "Earned for being a part of at least 1 moment on a channel",
+    "clickAction": null,
+    "clickURL": null,
+    "imageURL": "https://static-cdn.jtvnw.net/badges/v1/bf370830-d79a-497b-81c6-a365b2b60dda/2"
+   }
+  ]
+ },
+ "user": {
+  "id": "126554702",
+  "login": "elias940",
+  "displayName": "elias940",
+  "description": "",
+  "createdAt": "2016-06-12T00:21:20.502739Z",
+  "chatColor": "#FF69B4",
+  "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/4989095f-6bf8-4fea-b7d3-0751baae32c8-profile_image-150x150.png",
+  "roles": {
+   "isPartner": false,
+   "isAffiliate": false,
+   "isStaff": null
+  },
+  "followers": {
+   "totalCount": 10
+  },
+  "stream": null
+ },
+ "channel": {
+  "id": "71092938",
+  "login": "xqc",
+  "displayName": "xQc",
+  "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+  "roles": {
+   "isPartner": true,
+   "isAffiliate": false
+  }
+ }
+}

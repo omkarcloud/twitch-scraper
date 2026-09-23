@@ -1,0 +1,108 @@
+{
+ "team": {
+  "id": "9605",
+  "name": "otk",
+  "displayName": "OTK",
+  "description": "One True King.",
+  "logoURL": "https://static-cdn.jtvnw.net/team-assets/otk-f3369452905b4fc385eb9ccea7bfe8cf.png",
+  "backgroundImageURL": "https://static-cdn.jtvnw.net/team-assets/otk-f78f81ea4b3d4f61b3c4867f9408d236.jpeg",
+  "bannerURL": "https://static-cdn.jtvnw.net/team-assets/otk-3bd7a85210904383ab1c1fc1ea15645a.png",
+  "members": {
+   "totalCount": 5,
+   "edges": [
+    {
+     "node": {
+      "id": "38746172",
+      "login": "esfandtv",
+      "displayName": "EsfandTV",
+      "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/476ee93d-66a6-4e57-b3a9-db1ceb168ad8-profile_image-150x150.png",
+      "roles": {
+       "isPartner": true,
+       "isAffiliate": false
+      },
+      "followers": {
+       "totalCount": 1390820
+      },
+      "stream": {
+       "id": "321488994393",
+       "title": "💰 BETA KEYS ALL NIGHT 💰Burning Crusade's Last Hope | @esfandtv all socials !schedule !classicast",
+       "viewersCount": 7778,
+       "createdAt": "2026-09-22T20:10:57Z",
+       "game": {
+        "id": "18122",
+        "name": "World of Warcraft",
+        "displayName": "World of Warcraft",
+        "slug": "world-of-warcraft",
+        "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/18122-285x380.jpg"
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "184289616",
+      "login": "tipsoutbaby",
+      "displayName": "tipsoutbaby",
+      "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/99f0b980-0546-403c-9a48-c0e277d6ae1a-profile_image-150x150.jpg",
+      "roles": {
+       "isPartner": true,
+       "isAffiliate": false
+      },
+      "followers": {
+       "totalCount": 143158
+      },
+      "stream": null
+     }
+    },
+    {
+     "node": {
+      "id": "21841789",
+      "login": "nmplol",
+      "displayName": "Nmplol",
+      "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/e4d9bf96-311d-487a-b5eb-9f9a94e0f795-profile_image-150x150.png",
+      "roles": {
+       "isPartner": true,
+       "isAffiliate": false
+      },
+      "followers": {
+       "totalCount": 1198316
+      },
+      "stream": null
+     }
+    },
+    {
+     "node": {
+      "id": "37522866",
+      "login": "cyr",
+      "displayName": "CYR",
+      "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/41b88ab3-4624-4054-a60a-464ecb49af24-profile_image-150x150.png",
+      "roles": {
+       "isPartner": true,
+       "isAffiliate": false
+      },
+      "followers": {
+       "totalCount": 652048
+      },
+      "stream": null
+     }
+    },
+    {
+     "node": {
+      "id": "26301881",
+      "login": "sodapoppin",
+      "displayName": "sodapoppin",
+      "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/fc7b15b2-e400-4e74-8c8b-2ad3725e5770-profile_image-150x150.png",
+      "roles": {
+       "isPartner": true,
+       "isAffiliate": false
+      },
+      "followers": {
+       "totalCount": 8982736
+      },
+      "stream": null
+     }
+    }
+   ]
+  }
+ }
+}

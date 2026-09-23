@@ -1,0 +1,114 @@
+{
+ "user": {
+  "id": "71092938",
+  "login": "xqc",
+  "displayName": "xQc",
+  "videos": {
+   "totalCount": 50,
+   "edges": [
+    {
+     "cursor": "2869633607|1769491|2026-09-09T16:26:30Z|53183",
+     "node": {
+      "id": "1199379108",
+      "title": "xQcOW's Channel Trailer",
+      "description": null,
+      "viewCount": 10143819,
+      "lengthSeconds": 21,
+      "publishedAt": "2021-11-08T22:58:20Z",
+      "createdAt": "2021-11-08T03:44:16Z",
+      "language": "en",
+      "broadcastType": "UPLOAD",
+      "status": "RECORDED",
+      "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/xqcow/1199379108/75f3517e-2c89-4ea3-b6f7-ad9a57b053e1/thumb/index-0000000000-640x360.jpg",
+      "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/xqcow/1199379108/75f3517e-2c89-4ea3-b6f7-ad9a57b053e1/storyboards/1199379108-strip-0.jpg",
+      "game": null,
+      "owner": {
+       "id": "71092938",
+       "login": "xqc",
+       "displayName": "xQc",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "contentTags": []
+     }
+    },
+    {
+     "cursor": "2869633607|1769491|2026-09-09T16:26:30Z|53183",
+     "node": {
+      "id": "2868715967",
+      "title": "⚠️LIVE⚠️ALERT⚠️TUNE IN QUICK⚠️JP IS BACK⚠️THIS IS NOT A DRILL⚠️GTA 5 RP⚠️NOPIXEL V⚠️LOCK IN⚠️ALSO⚠️USUAL TITLE⚠️VERY COOL⚠️",
+      "description": null,
+      "viewCount": 2547352,
+      "lengthSeconds": 48636,
+      "publishedAt": "2026-09-08T14:59:16Z",
+      "createdAt": "2026-09-08T14:59:16Z",
+      "language": "en",
+      "broadcastType": "ARCHIVE",
+      "status": "RECORDED",
+      "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2vi6trrdongqn/4d4365c377e8b569640f_xqc_320241612508_1788879551//thumb/thumb0-640x360.jpg",
+      "animatedPreviewURL": "https://d2vi6trrdongqn.cloudfront.net/4d4365c377e8b569640f_xqc_320241612508_1788879551/storyboards/2868715967-strip-0.jpg",
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "owner": {
+       "id": "71092938",
+       "login": "xqc",
+       "displayName": "xQc",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "contentTags": []
+     }
+    },
+    {
+     "cursor": "2869633607|1769491|2026-09-09T16:26:30Z|53183",
+     "node": {
+      "id": "2869633607",
+      "title": "🌎LIVE🌎RED ALERT🌎LOCK IN🌎DRAMA🌎GTA 5 IS BACK🌎DISCOVERING THE MYSTERIES🌎OF LOS SANTOS🌎WITH CHAT SMILEY🌎FACE🌎STUFF ALSO🌎",
+      "description": null,
+      "viewCount": 1769491,
+      "lengthSeconds": 53183,
+      "publishedAt": "2026-09-09T16:26:30Z",
+      "createdAt": "2026-09-09T16:26:30Z",
+      "language": "en",
+      "broadcastType": "ARCHIVE",
+      "status": "RECORDED",
+      "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2vi6trrdongqn/0f5b0a898b9f42eb77a3_xqc_320158574814_1788971185//thumb/thumb0-640x360.jpg",
+      "animatedPreviewURL": "https://d2vi6trrdongqn.cloudfront.net/0f5b0a898b9f42eb77a3_xqc_320158574814_1788971185/storyboards/2869633607-strip-0.jpg",
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "owner": {
+       "id": "71092938",
+       "login": "xqc",
+       "displayName": "xQc",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "contentTags": []
+     }
+    }
+   ],
+   "pageInfo": {
+    "hasNextPage": true
+   }
+  }
+ }
+}

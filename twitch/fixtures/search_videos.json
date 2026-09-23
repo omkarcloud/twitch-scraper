@@ -1,0 +1,180 @@
+{
+ "searchFor": {
+  "videos": {
+   "totalMatches": 10000,
+   "cursor": "NQ==",
+   "edges": [
+    {
+     "item": {
+      "id": "2881222414",
+      "title": "Guardian Angel",
+      "description": null,
+      "viewCount": 8,
+      "lengthSeconds": 3763,
+      "publishedAt": "2026-09-22T18:23:25Z",
+      "createdAt": "2026-09-22T18:23:25Z",
+      "language": "es",
+      "broadcastType": "ARCHIVE",
+      "status": "RECORDED",
+      "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/943536beec6c7331a42e_angelguardiantwitch_321488119257_1790101400//thumb/thumb0-640x360.jpg",
+      "animatedPreviewURL": "https://d1m7jfoe9zdc1j.cloudfront.net/943536beec6c7331a42e_angelguardiantwitch_321488119257_1790101400/storyboards/2881222414-strip-0.jpg",
+      "game": {
+       "id": "206444945",
+       "name": "Speedrun",
+       "displayName": "Speedrun",
+       "slug": "speedrun",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/206444945_IGDB-285x380.jpg"
+      },
+      "owner": {
+       "id": "1310669444",
+       "login": "angelguardiantwitch",
+       "displayName": "AngelGuardianTwitch",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a7ff58c-0bf1-4687-b3bb-59b84ae84bd3-profile_image-150x150.png",
+       "roles": {
+        "isPartner": false,
+        "isAffiliate": true
+       }
+      },
+      "contentTags": []
+     }
+    },
+    {
+     "item": {
+      "id": "2880054425",
+      "title": "S7 ZOMBIE MODE",
+      "description": null,
+      "viewCount": 311,
+      "lengthSeconds": 16292,
+      "publishedAt": "2026-09-21T08:54:00Z",
+      "createdAt": "2026-09-21T08:54:00Z",
+      "language": "tr",
+      "broadcastType": "ARCHIVE",
+      "status": "RECORDED",
+      "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d3fi1amfgojobc/bb7968258e2569c75652_solospeedrun_318527268071_1789980834//thumb/thumb0-640x360.jpg",
+      "animatedPreviewURL": "https://d3fi1amfgojobc.cloudfront.net/bb7968258e2569c75652_solospeedrun_318527268071_1789980834/storyboards/2880054425-strip-0.jpg",
+      "game": {
+       "id": "401587136",
+       "name": "Arena Breakout: Infinite",
+       "displayName": "Arena Breakout: Infinite",
+       "slug": "arena-breakout-infinite",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/401587136_IGDB-285x380.jpg"
+      },
+      "owner": {
+       "id": "459500557",
+       "login": "solospeedrun",
+       "displayName": "SoloSpeedRUN",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ed39f20b-ea19-4e28-9142-60799a729900-profile_image-150x150.png",
+       "roles": {
+        "isPartner": false,
+        "isAffiliate": false
+       }
+      },
+      "contentTags": []
+     }
+    },
+    {
+     "item": {
+      "id": "2881473001",
+      "title": "[LSS26] カービィのエアライダー / ykrin",
+      "description": null,
+      "viewCount": 116,
+      "lengthSeconds": 33345,
+      "publishedAt": "2026-09-22T23:54:56Z",
+      "createdAt": "2026-09-22T23:54:56Z",
+      "language": "ja",
+      "broadcastType": "ARCHIVE",
+      "status": "RECORDING",
+      "previewThumbnailURL": "https://vod-secure.twitch.tv/_404/404_processing_640x360.png",
+      "animatedPreviewURL": "https://d3vd9lfkzbru3h.cloudfront.net/9e9756dde05e0a5fd93d_longspeedrunsummit_316494290674_1790121290/storyboards/2881473001-strip-0.jpg",
+      "game": {
+       "id": "2086806174",
+       "name": "Kirby Air Riders",
+       "displayName": "Kirby Air Riders",
+       "slug": "kirby-air-riders",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/2086806174_IGDB-285x380.jpg"
+      },
+      "owner": {
+       "id": "796563995",
+       "login": "longspeedrunsummit",
+       "displayName": "LongSpeedrunSummit",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/83ac79e2-3d6d-41de-b6cf-058c16caec1c-profile_image-150x150.png",
+       "roles": {
+        "isPartner": false,
+        "isAffiliate": false
+       }
+      },
+      "contentTags": []
+     }
+    },
+    {
+     "item": {
+      "id": "2880365331",
+      "title": "Guardian Angel",
+      "description": null,
+      "viewCount": 5,
+      "lengthSeconds": 4287,
+      "publishedAt": "2026-09-21T18:12:25Z",
+      "createdAt": "2026-09-21T18:12:25Z",
+      "language": "es",
+      "broadcastType": "ARCHIVE",
+      "status": "RECORDED",
+      "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/4cf0de8fd1886d593b64_angelguardiantwitch_321473867993_1790014340//thumb/thumb0-640x360.jpg",
+      "animatedPreviewURL": "https://d1m7jfoe9zdc1j.cloudfront.net/4cf0de8fd1886d593b64_angelguardiantwitch_321473867993_1790014340/storyboards/2880365331-strip-0.jpg",
+      "game": {
+       "id": "206444945",
+       "name": "Speedrun",
+       "displayName": "Speedrun",
+       "slug": "speedrun",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/206444945_IGDB-285x380.jpg"
+      },
+      "owner": {
+       "id": "1310669444",
+       "login": "angelguardiantwitch",
+       "displayName": "AngelGuardianTwitch",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/5a7ff58c-0bf1-4687-b3bb-59b84ae84bd3-profile_image-150x150.png",
+       "roles": {
+        "isPartner": false,
+        "isAffiliate": true
+       }
+      },
+      "contentTags": []
+     }
+    },
+    {
+     "item": {
+      "id": "2880089799",
+      "title": "[LSS26] MOTHER2 ギーグの逆襲 / オクトパスカル",
+      "description": null,
+      "viewCount": 72212,
+      "lengthSeconds": 133936,
+      "publishedAt": "2026-09-21T10:41:32Z",
+      "createdAt": "2026-09-21T10:41:32Z",
+      "language": "ja",
+      "broadcastType": "ARCHIVE",
+      "status": "RECORDED",
+      "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d3vd9lfkzbru3h/d5e381b7cdcd27708012_longspeedrunsummit_316487510642_1789987287//thumb/thumb0-640x360.jpg",
+      "animatedPreviewURL": "https://d3vd9lfkzbru3h.cloudfront.net/d5e381b7cdcd27708012_longspeedrunsummit_316487510642_1789987287/storyboards/2880089799-strip-0.jpg",
+      "game": {
+       "id": "30367",
+       "name": "EarthBound",
+       "displayName": "EarthBound",
+       "slug": "earthbound",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/30367_IGDB-285x380.jpg"
+      },
+      "owner": {
+       "id": "796563995",
+       "login": "longspeedrunsummit",
+       "displayName": "LongSpeedrunSummit",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/83ac79e2-3d6d-41de-b6cf-058c16caec1c-profile_image-150x150.png",
+       "roles": {
+        "isPartner": false,
+        "isAffiliate": false
+       }
+      },
+      "contentTags": []
+     }
+    }
+   ]
+  }
+ }
+}

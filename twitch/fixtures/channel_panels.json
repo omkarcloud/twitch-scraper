@@ -1,0 +1,118 @@
+{
+ "user": {
+  "id": "71092938",
+  "login": "xqc",
+  "displayName": "xQc",
+  "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+  "roles": {
+   "isPartner": true,
+   "isAffiliate": false
+  },
+  "channel": {
+   "socialMedias": [
+    {
+     "id": "0ce657ed-e53e-4eb8-a1e2-c9b72065b896",
+     "name": "twitter",
+     "title": "Twitter",
+     "url": "https://twitter.com/xQc"
+    },
+    {
+     "id": "350b096e-ed37-4b08-9fec-9fa02d92d986",
+     "name": "discord",
+     "title": "Discord",
+     "url": "https://discord.com/invite/xqcow"
+    },
+    {
+     "id": "4b861d10-1ce9-4f44-838e-55a662908c66",
+     "name": "reddit",
+     "title": "reddit",
+     "url": "https://www.reddit.com/r/xqcow/"
+    },
+    {
+     "id": "a1599738-7dd5-433d-86a5-0d4a337f21a1",
+     "name": "youtube",
+     "title": "youtube",
+     "url": "https://www.youtube.com/channel/UCmDTrq0LNgPodDOFZiSbsww"
+    }
+   ]
+  },
+  "panels": [
+   {
+    "id": "12592823",
+    "type": "DEFAULT",
+    "title": null,
+    "description": null,
+    "linkURL": "https://www.twitch.tv/products/xqcow/ticket?ref=below_video_subscribe_button",
+    "imageURL": "https://panels.twitch.tv/panel-71092938-image-69b59f9c-0fd7-4402-b709-e389063b6ce2"
+   },
+   {
+    "id": "141003135",
+    "type": "DEFAULT",
+    "title": null,
+    "description": null,
+    "linkURL": "https://xqc.store/",
+    "imageURL": "https://panels.twitch.tv/panel-71092938-image-dc1a5a15-bc97-4543-a19e-1287fb307051"
+   },
+   {
+    "id": "6720150",
+    "type": "DEFAULT",
+    "title": null,
+    "description": "5$ TTS BRIAN. 10$ CUSTOM AI TTS\n(how to use AI VOICE: https://tts.monster/xqc",
+    "linkURL": "https://streamelements.com/xqc/tip",
+    "imageURL": "https://panels.twitch.tv/panel-71092938-image-bbdae3c8-70d4-48cf-939c-cb31b3bffd79"
+   },
+   {
+    "id": "12592818",
+    "type": "DEFAULT",
+    "title": null,
+    "description": null,
+    "linkURL": "https://discord.gg/xqcow",
+    "imageURL": "https://panels.twitch.tv/panel-71092938-image-1c25ea1fcbb030f2-320-320.png"
+   },
+   {
+    "id": "8847001",
+    "type": "DEFAULT",
+    "title": null,
+    "description": null,
+    "linkURL": "https://twitter.com/xqc",
+    "imageURL": "https://panels.twitch.tv/panel-71092938-image-9de30da0df6ced9e-320-320.png"
+   },
+   {
+    "id": "22113669",
+    "type": "EXTENSION"
+   },
+   {
+    "id": "8847029",
+    "type": "DEFAULT",
+    "title": null,
+    "description": null,
+    "linkURL": "https://www.youtube.com/channel/UCmDTrq0LNgPodDOFZiSbsww",
+    "imageURL": "https://panels.twitch.tv/panel-71092938-image-27c3396a342cde86-320-320.png"
+   },
+   {
+    "id": "22360616",
+    "type": "EXTENSION"
+   },
+   {
+    "id": "22360618",
+    "type": "EXTENSION"
+   },
+   {
+    "id": "14506832",
+    "type": "DEFAULT",
+    "title": null,
+    "description": "- My name is Félix and i'm 30 years old. \n- I live in FLORIDA\n- I PLAY AND WIN AT EVERY GAME\n- I'm 6'2\" 145 lbs\n-I like streaming\n-I fixed this information after 8 years",
+    "linkURL": null,
+    "imageURL": "https://panels.twitch.tv/panel-71092938-image-b09d9b647c13c1bd-320-320.png"
+   },
+   {
+    "id": "154310956",
+    "type": "DEFAULT",
+    "title": null,
+    "description": null,
+    "linkURL": "https://g.oncehuman.game/c/sbkmo4",
+    "imageURL": "https://panels.twitch.tv/panel-71092938-image-859bd9a8-8525-4375-8232-1115f3e56244"
+   }
+  ]
+ }
+}

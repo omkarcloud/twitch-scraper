@@ -1,0 +1,246 @@
+{
+ "game": {
+  "id": "509658",
+  "name": "Just Chatting",
+  "displayName": "Just Chatting",
+  "slug": "just-chatting",
+  "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg",
+  "clips": {
+   "edges": [
+    {
+     "cursor": null,
+     "node": {
+      "id": "12342734",
+      "slug": "EnjoyableRoundWalrusPogChamp-rWgVpgXYo-gLYMv7",
+      "title": "taking out banana bread",
+      "url": "https://www.twitch.tv/quqco/clip/EnjoyableRoundWalrusPogChamp-rWgVpgXYo-gLYMv7",
+      "viewCount": 2679,
+      "durationSeconds": 60,
+      "createdAt": "2026-09-22T23:19:54Z",
+      "language": "EN",
+      "isFeatured": false,
+      "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d80b2b26-b9d6-401d-ae3b-25630ad7e9b8/landscape/thumb/thumb-0000000000-1920x1080.jpg",
+      "videoOffsetSeconds": 7761,
+      "broadcaster": {
+       "id": "107297099",
+       "login": "quqco",
+       "displayName": "quqco",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/64089670-f909-4b1a-854d-ace1d0a79f26-profile_image-150x150.png",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "curator": {
+       "id": "107297099",
+       "login": "quqco",
+       "displayName": "quqco",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/64089670-f909-4b1a-854d-ace1d0a79f26-profile_image-150x150.png",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "video": {
+       "id": "2880264148"
+      }
+     }
+    },
+    {
+     "cursor": null,
+     "node": {
+      "id": "3650497474",
+      "slug": "FuriousBigElkShazBotstix-P1I2pjqkav0ag_M7",
+      "title": "Datto's position on coming back.",
+      "url": "https://www.twitch.tv/datto/clip/FuriousBigElkShazBotstix-P1I2pjqkav0ag_M7",
+      "viewCount": 2682,
+      "durationSeconds": 39,
+      "createdAt": "2026-09-22T17:58:32Z",
+      "language": "EN",
+      "isFeatured": false,
+      "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c62d4b5c-0fec-4254-bbef-eb5eb95fb4d6/landscape/thumb/thumb-0000000000-1920x1080.jpg",
+      "videoOffsetSeconds": 3038,
+      "broadcaster": {
+       "id": "42296879",
+       "login": "datto",
+       "displayName": "Datto",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/cad4777f-d0ab-41b8-85c0-13c808e35b9b-profile_image-150x150.png",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "curator": {
+       "id": "49087779",
+       "login": "lonewolf4374",
+       "displayName": "LoneWolf4374",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/bc72a8f0-dc12-4987-993b-355cc20d977a-profile_image-150x150.png",
+       "roles": {
+        "isPartner": false,
+        "isAffiliate": false
+       }
+      },
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "video": {
+       "id": "2881157853"
+      }
+     }
+    },
+    {
+     "cursor": null,
+     "node": {
+      "id": "185913339",
+      "slug": "ChillyPrettiestKeyboardPrimeMe-bM1ZAJ3SYdOKEdcE",
+      "title": "Be grateful for the Irish!!",
+      "url": "https://www.twitch.tv/clarawrrxd/clip/ChillyPrettiestKeyboardPrimeMe-bM1ZAJ3SYdOKEdcE",
+      "viewCount": 1639,
+      "durationSeconds": 36,
+      "createdAt": "2026-09-22T12:29:47Z",
+      "language": "EN",
+      "isFeatured": true,
+      "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/489a8a35-2b5d-43c0-8c2f-34d0502e81cd/landscape/thumb/thumb-0000000000-1920x1080.jpg",
+      "videoOffsetSeconds": 3729,
+      "broadcaster": {
+       "id": "464113486",
+       "login": "clarawrrxd",
+       "displayName": "ClaRawrrXD",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/2fc33692-8a82-4c71-a8fd-9cd89f326f4b-profile_image-150x150.jpeg",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "curator": {
+       "id": "1152141936",
+       "login": "asia_marie93",
+       "displayName": "asia_marie93",
+       "profileImageURL": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-150x150.png",
+       "roles": {
+        "isPartner": false,
+        "isAffiliate": false
+       }
+      },
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "video": {
+       "id": "2880952651"
+      }
+     }
+    },
+    {
+     "cursor": null,
+     "node": {
+      "id": "1414835421",
+      "slug": "StormySilkyEndiveFrankerZ-ezifSaQygwU3BGGP",
+      "title": "WoW Forever, already testing relationships and its only in Beta",
+      "url": "https://www.twitch.tv/hyoandjay/clip/StormySilkyEndiveFrankerZ-ezifSaQygwU3BGGP",
+      "viewCount": 1228,
+      "durationSeconds": 60,
+      "createdAt": "2026-09-23T05:11:40Z",
+      "language": "EN",
+      "isFeatured": false,
+      "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0d08034a-9960-43e9-b943-3b6ce743cbee/landscape/thumb/thumb-0000000000-1920x1080.jpg",
+      "videoOffsetSeconds": 11464,
+      "broadcaster": {
+       "id": "1535502702",
+       "login": "hyoandjay",
+       "displayName": "hyoandjay",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee54c8fa-d56d-4a4c-900a-5b8ecf9b556c-profile_image-150x150.png",
+       "roles": {
+        "isPartner": false,
+        "isAffiliate": false
+       }
+      },
+      "curator": {
+       "id": "66893062",
+       "login": "baboonerror",
+       "displayName": "BaboonError",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/037237f4-bff7-4fd0-8ce1-dc1705a8b459-profile_image-150x150.png",
+       "roles": {
+        "isPartner": false,
+        "isAffiliate": false
+       }
+      },
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "video": {
+       "id": "2881574743"
+      }
+     }
+    },
+    {
+     "cursor": "NQ==",
+     "node": {
+      "id": "3869743678",
+      "slug": "DifferentUnsightlyBananaOMGScoots-0HcmL12_Qi73a7qL",
+      "title": "chris",
+      "url": "https://www.twitch.tv/jynxzi/clip/DifferentUnsightlyBananaOMGScoots-0HcmL12_Qi73a7qL",
+      "viewCount": 1175,
+      "durationSeconds": 30,
+      "createdAt": "2026-09-22T19:10:48Z",
+      "language": "EN",
+      "isFeatured": false,
+      "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/8d315145-7281-4df0-90b1-dca2e48999f5/landscape/thumb/thumb-0000000000-1920x1080.jpg",
+      "videoOffsetSeconds": 1439,
+      "broadcaster": {
+       "id": "411377640",
+       "login": "jynxzi",
+       "displayName": "Jynxzi",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/645d98a0-a2eb-48a3-b687-cfbc55243e4a-profile_image-150x150.png",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "curator": {
+       "id": "1322892361",
+       "login": "nrgazcoxfn",
+       "displayName": "nrgazcoxfn",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/de193015-53a9-4e45-ad27-ce1a3358dabf-profile_image-150x150.jpeg",
+       "roles": {
+        "isPartner": false,
+        "isAffiliate": false
+       }
+      },
+      "game": {
+       "id": "509658",
+       "name": "Just Chatting",
+       "displayName": "Just Chatting",
+       "slug": "just-chatting",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-285x380.jpg"
+      },
+      "video": {
+       "id": "2881241732"
+      }
+     }
+    }
+   ],
+   "pageInfo": {
+    "hasNextPage": true
+   }
+  }
+ }
+}

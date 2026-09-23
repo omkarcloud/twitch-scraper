@@ -1,0 +1,106 @@
+{
+ "user": {
+  "id": "71092938",
+  "login": "xqc",
+  "displayName": "xQc",
+  "clips": {
+   "edges": [
+    {
+     "cursor": null,
+     "node": {
+      "id": "3993536257",
+      "slug": "SoftOriginalMinkOMGScoots-PEmChDlJTl-8X-PW",
+      "title": "DONT MESS WITH THE BRICK BOIZZZZZZZZZ",
+      "url": "https://www.twitch.tv/xqc/clip/SoftOriginalMinkOMGScoots-PEmChDlJTl-8X-PW",
+      "viewCount": 6206,
+      "durationSeconds": 30,
+      "createdAt": "2026-09-22T20:42:42Z",
+      "language": "EN",
+      "isFeatured": false,
+      "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6aad384f-94fb-4107-b78a-b8690308f9ec/landscape/thumb/thumb-0000000000-1920x1080.jpg",
+      "videoOffsetSeconds": 11994,
+      "broadcaster": {
+       "id": "71092938",
+       "login": "xqc",
+       "displayName": "xQc",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "curator": {
+       "id": "135528523",
+       "login": "im_txhi",
+       "displayName": "im_txhi",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ed4354a-640b-49e1-9dce-2041a7ab976e-profile_image-150x150.png",
+       "roles": {
+        "isPartner": false,
+        "isAffiliate": true
+       }
+      },
+      "game": {
+       "id": "32982",
+       "name": "Grand Theft Auto V",
+       "displayName": "Grand Theft Auto V",
+       "slug": "grand-theft-auto-v",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/32982_IGDB-285x380.jpg"
+      },
+      "video": {
+       "id": "2881171681"
+      }
+     }
+    },
+    {
+     "cursor": "Mg==",
+     "node": {
+      "id": "1765134216",
+      "slug": "CleverInexpensiveGarlicBloodTrail-pRHHqBLKKdeievp8",
+      "title": "absolute chaos",
+      "url": "https://www.twitch.tv/xqc/clip/CleverInexpensiveGarlicBloodTrail-pRHHqBLKKdeievp8",
+      "viewCount": 2592,
+      "durationSeconds": 31,
+      "createdAt": "2026-09-22T10:35:22Z",
+      "language": "EN",
+      "isFeatured": false,
+      "thumbnailURL": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2c2174b9-a878-499f-85dd-fa642e11373e/landscape/thumb/thumb-0000000000-1920x1080.jpg",
+      "videoOffsetSeconds": 36006,
+      "broadcaster": {
+       "id": "71092938",
+       "login": "xqc",
+       "displayName": "xQc",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/xqc-profile_image-9298dca608632101-150x150.jpeg",
+       "roles": {
+        "isPartner": true,
+        "isAffiliate": false
+       }
+      },
+      "curator": {
+       "id": "768198835",
+       "login": "puertoricanporo",
+       "displayName": "puertoricanporo",
+       "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd1edaea-8e9a-41ec-b980-43d71854e1b1-profile_image-150x150.png",
+       "roles": {
+        "isPartner": false,
+        "isAffiliate": false
+       }
+      },
+      "game": {
+       "id": "32982",
+       "name": "Grand Theft Auto V",
+       "displayName": "Grand Theft Auto V",
+       "slug": "grand-theft-auto-v",
+       "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/32982_IGDB-285x380.jpg"
+      },
+      "video": {
+       "id": "2880410519"
+      }
+     }
+    }
+   ],
+   "pageInfo": {
+    "hasNextPage": true
+   }
+  }
+ }
+}

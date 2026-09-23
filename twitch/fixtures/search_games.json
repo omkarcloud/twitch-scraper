@@ -1,0 +1,155 @@
+{
+ "searchCategories": {
+  "edges": [
+   {
+    "cursor": "NQ==",
+    "node": {
+     "id": "27471",
+     "name": "Minecraft",
+     "displayName": "Minecraft",
+     "slug": "minecraft",
+     "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/27471_IGDB-285x380.jpg",
+     "viewersCount": 8540,
+     "followersCount": 3718157,
+     "tags": [
+      {
+       "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
+       "localizedName": "Simulation"
+      },
+      {
+       "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+       "localizedName": "Adventure Game"
+      },
+      {
+       "id": "7ff66192-68ef-4b69-8906-24736bf66ed0",
+       "localizedName": "Arcade"
+      },
+      {
+       "id": "643fe658-c4fc-45f0-9aed-cbe54a7c1d10",
+       "localizedName": "MMO"
+      },
+      {
+       "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+       "localizedName": "Action"
+      }
+     ]
+    }
+   },
+   {
+    "cursor": "NQ==",
+    "node": {
+     "id": "509725",
+     "name": "Minecraft Dungeons",
+     "displayName": "Minecraft Dungeons",
+     "slug": "minecraft-dungeons",
+     "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509725_IGDB-285x380.jpg",
+     "viewersCount": 11,
+     "followersCount": 450927,
+     "tags": [
+      {
+       "id": "9d38085e-ee62-4203-877b-81797052a18b",
+       "localizedName": "RPG"
+      },
+      {
+       "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+       "localizedName": "Action"
+      },
+      {
+       "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+       "localizedName": "Adventure Game"
+      }
+     ]
+    }
+   },
+   {
+    "cursor": "NQ==",
+    "node": {
+     "id": "490130",
+     "name": "Minecraft: Story Mode",
+     "displayName": "Minecraft: Story Mode",
+     "slug": "minecraft-story-mode",
+     "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/490130_IGDB-285x380.jpg",
+     "viewersCount": 32,
+     "followersCount": 185251,
+     "tags": [
+      {
+       "id": "0c99bf18-5a92-4257-8974-d7a60088d1e8",
+       "localizedName": "Point and Click"
+      },
+      {
+       "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+       "localizedName": "Adventure Game"
+      },
+      {
+       "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+       "localizedName": "Action"
+      }
+     ]
+    }
+   },
+   {
+    "cursor": "NQ==",
+    "node": {
+     "id": "596148161",
+     "name": "Minecraft PSP",
+     "displayName": "Minecraft PSP",
+     "slug": "minecraft-psp",
+     "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/596148161_IGDB-285x380.jpg",
+     "viewersCount": null,
+     "followersCount": 94,
+     "tags": [
+      {
+       "id": "22e434b6-ca88-46e8-91ef-c18ee1cb8a67",
+       "localizedName": "Simulation"
+      },
+      {
+       "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+       "localizedName": "Adventure Game"
+      },
+      {
+       "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+       "localizedName": "Action"
+      },
+      {
+       "id": "ae7d0652-8b2e-476b-8b51-a076550b234f",
+       "localizedName": "Survival"
+      },
+      {
+       "id": "a682f560-5186-4871-b97a-8d8e3f4308e9",
+       "localizedName": "Open World"
+      }
+     ]
+    }
+   },
+   {
+    "cursor": "NQ==",
+    "node": {
+     "id": "1219059137",
+     "name": "Minecraft: Story Mode - Season Two",
+     "displayName": "Minecraft: Story Mode - Season Two",
+     "slug": "minecraft-story-mode-season-two",
+     "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1219059137_IGDB-285x380.jpg",
+     "viewersCount": null,
+     "followersCount": 3849,
+     "tags": [
+      {
+       "id": "0c99bf18-5a92-4257-8974-d7a60088d1e8",
+       "localizedName": "Point and Click"
+      },
+      {
+       "id": "80427d95-bb46-42d3-bf4d-408e9bdca49a",
+       "localizedName": "Adventure Game"
+      },
+      {
+       "id": "4d1eaa36-f750-4862-b7e9-d0a13970d535",
+       "localizedName": "Action"
+      }
+     ]
+    }
+   }
+  ],
+  "pageInfo": {
+   "hasNextPage": true
+  }
+ }
+}

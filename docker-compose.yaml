@@ -1,0 +1,11 @@
+services:
+  twitch-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — Twitch did not rate-limit in testing, so leave these unset.
+      # - TWITCH_PROXY=http://user:pass@host:port
+      # - TWITCH_FALLBACK_PROXY=http://user:pass@host:port
