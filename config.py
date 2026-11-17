@@ -31,5 +31,15 @@ def twitch_proxy():
     return os.environ.get("TWITCH_PROXY") or None
 
 
-def twitch_fallback_proxy():
+def twitch_fallback_proxy(*args, **kwargs):
     return os.environ.get("TWITCH_FALLBACK_PROXY") or None
+
+
+# ---- added by the sync: defaults for a direct run ----
+def gateway_exit(exit=None):
+    return None
+
+
+def twitch_fallback_exits():
+    return ()
+

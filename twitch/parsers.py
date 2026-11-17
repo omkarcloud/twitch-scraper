@@ -25,11 +25,13 @@ whole because usher needs it verbatim), the HLS `#EXT-X-TWITCH-INFO`
 serving diagnostics, `emoteVariants[].isUnlockable` (always true),
 `SearchSuggestion.id` (a per-request uuid).
 """
-import json
+import fastjson
 import re
 from datetime import datetime, timezone
 
 from twitch import refs
+from scraper_utils.values import bool_or_none, to_int
+from scraper_utils.text import stripped as text
 
 _LANG_NAMES = {
     "en": "English", "es": "Spanish", "pt": "Portuguese", "de": "German", "fr": "French", "ru": "Russian",
@@ -43,32 +45,12 @@ _LANG_NAMES = {
 
 # ---- value helpers ---------------------------------------------------------------------
 
-def to_int(value):
-    try:
-        return int(value) if value not in (None, "") else None
-    except (TypeError, ValueError):
-        try:
-            return int(float(value))
-        except (TypeError, ValueError):
-            return None
-
 
 def to_float(value):
     try:
         return float(value) if value not in (None, "") else None
     except (TypeError, ValueError):
         return None
-
-
-def text(value):
-    if not isinstance(value, str):
-        return None
-    value = value.strip()
-    return value or None
-
-
-def bool_or_none(value):
-    return value if isinstance(value, bool) else None
 
 
 def lower(value):
@@ -394,7 +376,7 @@ def _playback_token(token):
         return None
     decoded = {}
     try:
-        decoded = json.loads(token.get("value") or "{}")
+        decoded = fastjson.loads(token.get("value") or "{}")
     except (TypeError, ValueError):
         decoded = {}
     expires = to_int(decoded.get("expires"))

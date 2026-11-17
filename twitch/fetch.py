@@ -24,10 +24,16 @@ Still gated whatever the client id: the moderator list (`user.mods`,
 Unauthenticated) and the follower / following LISTS (edges always empty;
 only the counts are public). Those are simply not offered.
 
-Blocks: none seen. If the pod's egress ever starts answering 403/429, a
-worker moves its session to a sticky residential proxy exit
-(config.twitch_fallback_proxy()) for config.TWITCH_BLOCK_COOLDOWN seconds,
-the same shape as the kick transport.
+Blocks: none seen. If the pod's egress ever starts answering 403/429, new
+sessions move one fallback step down for config.TWITCH_BLOCK_COOLDOWN
+seconds: since 2026-11-11 first to the shared gateway
+(config.TWITCH_FALLBACK_EXIT = "gateway", exit_gateway.py: a fresh gateway address on
+nearly every request; the numbers are in config.py's Twitch block), and only
+when that is refused too to a sticky residential exit
+(config.TWITCH_FALLBACK_PROXY_COUNTRY). A call the gateway keeps failing
+makes its LAST retry on the residential exit, for that call only. When the
+cooldown ends the next call is back on the server's own IP. The same shape
+as the reed / threads / soundcloud transports.
 
 Failure taxonomy (scraper_errors, mapped to HTTP by route_glue):
   TwitchUpstreamError  transport failure / 5xx / GQL "server error"   — retryable
@@ -36,6 +42,7 @@ Failure taxonomy (scraper_errors, mapped to HTTP by route_glue):
   TwitchNotFound       entity is null                                  — never retried
 """
 import json
+import fastjson
 import os
 import random
 import re
@@ -47,7 +54,9 @@ from concurrent.futures import ThreadPoolExecutor
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import config
+import egress
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
+from scraper_utils import debug, fanout, ladder, retry, sessions
 
 GQL_URL = "https://gql.twitch.tv/gql"
 USHER = "https://usher.ttvnw.net"
@@ -59,14 +68,14 @@ FANOUT_WORKERS = 6
 
 HEADERS = {
     "accept": "*/*",
-    "accept-language": "en-US,en;q=0.9",
+    "accept-language": egress.site_accept_language("twitch"),
     "content-type": "application/json",
     "origin": SITE,
     "referer": SITE + "/",
 }
 USHER_HEADERS = {
     "accept": "application/x-mpegURL, application/vnd.apple.mpegurl, application/json, text/plain",
-    "accept-language": "en-US,en;q=0.9",
+    "accept-language": egress.site_accept_language("twitch"),
     "origin": SITE,
     "referer": SITE + "/",
 }
@@ -89,63 +98,86 @@ class TwitchNotFound(NotFound):
 
 
 # ---- sessions ------------------------------------------------------------------
-# One curl session per worker thread. Direct egress by default; after a block
-# the thread's sessions go through a sticky residential exit for a cooldown.
+# One session per worker thread (egress.new_session: curl_cffi, or the gateway
+# exit's look-alike). Direct egress by default; after a block the sessions
+# move down the fallback steps (config.twitch_fallback_exits(): the gateway
+# exit, then a sticky residential exit) until `_fallback_until`, then go
+# back to direct.
 _local = threading.local()
 _fallback_until = 0.0
+_fallback_step = 1              # which fallback exit serves while the cooldown runs (1 = the first)
 _fallback_lock = threading.Lock()
 
 
-def _proxy_for_new_session():
+def _gateway_step(step):
+    """True when fallback step `step` is the gateway exit with another exit
+    configured behind it."""
+    exits = config.twitch_fallback_exits()
+    return 0 < step < len(exits) and bool(config.gateway_exit(exits[step - 1]))
+
+
+def _step():
+    """The fallback step a session built NOW rides: 0 = the configured exit
+    (the server's own IP), 1, 2 = config.twitch_fallback_proxy(step) while
+    the cooldown runs; one step past the gateway for the last retry of a
+    call (_retrying)."""
+    return ladder.current_step(_fallback_step, _fallback_until, _local, _gateway_step)
+
+
+def _proxy_for_new_session(step=None):
     forced = config.twitch_proxy()
     if forced:
         return forced
-    if time.time() < _fallback_until:
-        return config.twitch_fallback_proxy()
-    return None
+    step = _step() if step is None else step
+    return config.twitch_fallback_proxy(step) if step else None
 
 
 def _session():
     sess = getattr(_local, "session", None)
+    step = _step()
+    if sess is not None and getattr(sess, "_tw_step", 0) != step:
+        # 2026-11-11: a session follows its step. Before, a thread that took a
+        # fallback exit during a cooldown stayed on it until that exit failed.
+        _drop_session()
+        sess = None
     if sess is None:
-        from curl_cffi import requests as curl_requests
-        sess = curl_requests.Session(impersonate=IMPERSONATE)
-        proxy = _proxy_for_new_session()
-        if proxy:
-            sess.proxies = {"http": proxy, "https": proxy}
+        # None (direct), a proxy URL, or the gateway exit ("gateway")
+        sess = egress.new_session(_proxy_for_new_session(step), impersonate=IMPERSONATE)
+        sess._tw_step = step
         _local.session = sess
     return sess
 
 
 def _drop_session():
-    sess = getattr(_local, "session", None)
-    _local.session = None
-    if sess is not None:
-        try:
-            sess.close()
-        except Exception:
-            pass
+    sessions.drop(_local)
 
 
 def _note_block():
-    """A 403/429 on direct egress: send new sessions through a residential
-    exit for a while (no-op when no fallback country is configured)."""
-    global _fallback_until
-    if config.twitch_fallback_proxy() is not None:
-        with _fallback_lock:
-            _fallback_until = time.time() + config.TWITCH_BLOCK_COOLDOWN
+    """The exit this thread's session rides was refused (403 / 429): new
+    sessions move one fallback step down for a cooldown (own IP -> the gateway
+    exit -> residential; on the last step they stay there, each on a
+    fresh exit). No-op when no fallback is configured."""
+    global _fallback_until, _fallback_step
+    exits = config.twitch_fallback_exits()
+    if not exits:
+        return
+    own = getattr(getattr(_local, "session", None), "_tw_step", _step())
+    step = min(own + 1, len(exits))
+    with _fallback_lock:
+        # a refusal of the LAST exit names no step behind it: the residential
+        # exit a call borrowed for its last retry must not pull the sessions
+        # off the gateway step, which was not refused
+        if time.time() >= _fallback_until or (step > _fallback_step and own < len(exits)):
+            _fallback_step = step
+        _fallback_until = time.time() + config.TWITCH_BLOCK_COOLDOWN
+    if len(exits) > 1:      # how often each step is refused is the number to watch
+        print(f"twitch: exit refused, sessions on fallback step {_fallback_step} "
+              f"({exits[_fallback_step - 1]}) for {config.TWITCH_BLOCK_COOLDOWN} s")
 
 
 def dump_debug(name, text):
     """Keep the last body of each failure kind when TWITCH_DEBUG_DIR is set."""
-    dbg = os.environ.get("TWITCH_DEBUG_DIR", "")
-    if dbg and text:
-        try:
-            os.makedirs(dbg, exist_ok=True)
-            with open(os.path.join(dbg, name + ".txt"), "w") as f:
-                f.write(text if isinstance(text, str) else json.dumps(text, ensure_ascii=False))
-        except OSError:
-            pass
+    debug.dump("TWITCH_DEBUG_DIR", name, text, render=lambda body: json.dumps(body, ensure_ascii=False))
 
 
 # ---- GraphQL ---------------------------------------------------------------------
@@ -156,16 +188,11 @@ _FIELD_RE = re.compile(r"Cannot query field|Unknown argument|is not defined by t
 
 
 def _retrying(fn):
-    last = None
-    for attempt in range(1, config.MAX_RETRIES + 1):
-        try:
-            return fn()
-        except TwitchUpstreamError as e:      # includes TwitchBlocked
-            last = e
-            _drop_session()
-        if attempt < config.MAX_RETRIES:
-            time.sleep(config.RETRY_BACKOFF * attempt)
-    raise last
+    """Run fn() under the shared retry policy, each retry on a fresh session
+    / exit. While the sessions are on the gateway exit step the LAST retry of
+    a call rides the next step (the residential exit), for that call only:
+    a gateway failure then costs latency, not the call."""
+    return retry.run_flagged(fn, config, TwitchUpstreamError, lambda e: _drop_session(), _local)
 
 
 def _post(payload, label):
@@ -340,7 +367,7 @@ def _usher(url, token):
 
 def _usher_message(text):
     try:
-        body = json.loads(text)
+        body = fastjson.loads(text)
     except Exception:
         return None
     if isinstance(body, list) and body and isinstance(body[0], dict):
@@ -363,13 +390,7 @@ def vod_playlist(video_id, token):
 # ---- fan-out ------------------------------------------------------------------------
 
 def run_parallel(fns):
-    if not fns:
-        return []
-    if len(fns) == 1:
-        return [fns[0]()]
-    with ThreadPoolExecutor(max_workers=min(FANOUT_WORKERS, len(fns))) as ex:
-        futures = [ex.submit(fn) for fn in fns]
-        return [f.result() for f in futures]
+    return fanout.per_call(fns, FANOUT_WORKERS)
 
 
 if __name__ == "__main__":
